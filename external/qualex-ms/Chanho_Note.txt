@@ -1,0 +1,1 @@
+Need to build a full LAPACK library. Refer to INSTALL.txt in the ATLAS package for installing the full library.

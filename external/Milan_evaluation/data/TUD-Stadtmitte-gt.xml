@@ -1,0 +1,4187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset name="TUD-stadtmitte">
+   <frame number="7022">
+      <objectlist>
+         <object id="1">
+            <box h="218.56" w="61.08" xc="118.7934" yc="208.4623"/>
+         </object>
+         <object id="2">
+            <box h="227.013" w="75.8082" xc="219.11" yc="208.7056"/>
+         </object>
+         <object id="3">
+            <box h="154.4984" w="35.4461" xc="201.5143" yc="173.6592"/>
+         </object>
+         <object id="4">
+            <box h="246.178" w="72.9243" xc="393.8954" yc="204.5904"/>
+         </object>
+         <object id="5">
+            <box h="236.5916" w="64.7962" xc="490.1996" yc="207.5599"/>
+         </object>
+         <object id="6">
+            <box h="122.1516" w="36.501" xc="531.3148" yc="171.9622"/>
+         </object>
+         <object id="7">
+            <box h="195.5557" w="61.6316" xc="606.6346" yc="181.7074"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7023">
+      <objectlist>
+         <object id="1">
+            <box h="218.56" w="61.08" xc="114.9845" yc="208.7434"/>
+         </object>
+         <object id="2">
+            <box h="226.6223" w="75.6296" xc="221.9422" yc="208.5015"/>
+         </object>
+         <object id="3">
+            <box h="154.504" w="35.5318" xc="201.5286" yc="173.662"/>
+         </object>
+         <object id="4">
+            <box h="245.7852" w="72.8314" xc="396.023" yc="204.4402"/>
+         </object>
+         <object id="5">
+            <box h="236.1947" w="64.8899" xc="492.2495" yc="207.3931"/>
+         </object>
+         <object id="6">
+            <box h="122.1461" w="36.4796" xc="530.3402" yc="172.038"/>
+         </object>
+         <object id="7">
+            <box h="195.3677" w="61.5959" xc="604.6809" yc="181.687"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7024">
+      <objectlist>
+         <object id="1">
+            <box h="218.56" w="61.08" xc="110.336" yc="209.0857"/>
+         </object>
+         <object id="2">
+            <box h="226.1445" w="75.4117" xc="225.3985" yc="208.2517"/>
+         </object>
+         <object id="3">
+            <box h="154.5105" w="35.6364" xc="201.5461" yc="173.6653"/>
+         </object>
+         <object id="4">
+            <box h="245.3057" w="72.718" xc="398.6192" yc="204.2574"/>
+         </object>
+         <object id="5">
+            <box h="235.7106" w="65.0048" xc="494.7515" yc="207.1891"/>
+         </object>
+         <object id="6">
+            <box h="122.1399" w="36.4534" xc="529.1512" yc="172.1308"/>
+         </object>
+         <object id="7">
+            <box h="195.1386" w="61.5523" xc="602.2966" yc="181.6619"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7025">
+      <objectlist>
+         <object id="1">
+            <box h="218.56" w="61.08" xc="105.2344" yc="209.4612"/>
+         </object>
+         <object id="2">
+            <box h="225.6192" w="75.1726" xc="229.1913" yc="207.9773"/>
+         </object>
+         <object id="3">
+            <box h="154.5179" w="35.7512" xc="201.5652" yc="173.6689"/>
+         </object>
+         <object id="4">
+            <box h="244.7796" w="72.5933" xc="401.4681" yc="204.0574"/>
+         </object>
+         <object id="5">
+            <box h="235.1796" w="65.1313" xc="497.4972" yc="206.9652"/>
+         </object>
+         <object id="6">
+            <box h="122.1334" w="36.4247" xc="527.847" yc="172.2328"/>
+         </object>
+         <object id="7">
+            <box h="194.8875" w="61.5044" xc="599.6794" yc="181.6339"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7026">
+      <objectlist>
+         <object id="1">
+            <box h="218.56" w="61.08" xc="99.9533" yc="209.85"/>
+         </object>
+         <object id="2">
+            <box h="225.0749" w="74.925" xc="233.1176" yc="207.6933"/>
+         </object>
+         <object id="3">
+            <box h="154.5258" w="35.87" xc="201.585" yc="173.6729"/>
+         </object>
+         <object id="4">
+            <box h="244.235" w="72.4637" xc="404.4169" yc="203.8506"/>
+         </object>
+         <object id="5">
+            <box h="234.63" w="65.2621" xc="500.3392" yc="206.7334"/>
+         </object>
+         <object id="6">
+            <box h="122.127" w="36.395" xc="526.4975" yc="172.3385"/>
+         </object>
+         <object id="7">
+            <box h="194.6276" w="61.4546" xc="596.9694" yc="181.6046"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7027">
+      <objectlist>
+         <object id="1">
+            <box h="218.56" w="61.08" xc="94.62" yc="210.2426"/>
+         </object>
+         <object id="2">
+            <box h="224.5251" w="74.675" xc="237.0829" yc="207.4067"/>
+         </object>
+         <object id="3">
+            <box h="154.5342" w="35.99" xc="201.605" yc="173.6771"/>
+         </object>
+         <object id="4">
+            <box h="243.685" w="72.3321" xc="407.3944" yc="203.6416"/>
+         </object>
+         <object id="5">
+            <box h="234.075" w="65.3937" xc="503.2088" yc="206.4995"/>
+         </object>
+         <object id="6">
+            <box h="122.1208" w="36.365" xc="525.1346" yc="172.4454"/>
+         </object>
+         <object id="7">
+            <box h="194.365" w="61.4037" xc="594.2319" yc="181.5753"/>
+         </object>
+         <object id="8">
+            <box h="126.9938" w="23.9941" xc="628.1229" yc="171.2231"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7028">
+      <objectlist>
+         <object id="1">
+            <box h="218.56" w="61.08" xc="89.2867" yc="210.635"/>
+         </object>
+         <object id="2">
+            <box h="223.9754" w="74.425" xc="241.0488" yc="207.12"/>
+         </object>
+         <object id="3">
+            <box h="154.5422" w="36.11" xc="201.625" yc="173.6811"/>
+         </object>
+         <object id="4">
+            <box h="243.135" w="72.2" xc="410.3717" yc="203.4322"/>
+         </object>
+         <object id="5">
+            <box h="233.52" w="65.5247" xc="506.0783" yc="206.2658"/>
+         </object>
+         <object id="6">
+            <box h="122.115" w="36.335" xc="523.7712" yc="172.5526"/>
+         </object>
+         <object id="7">
+            <box h="194.1024" w="61.3521" xc="591.4939" yc="181.5462"/>
+         </object>
+         <object id="8">
+            <box h="127.0326" w="25.3553" xc="627.4422" yc="171.2037"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7029">
+      <objectlist>
+         <object id="1">
+            <box h="218.56" w="61.08" xc="83.9533" yc="211.0275"/>
+         </object>
+         <object id="2">
+            <box h="223.4263" w="74.175" xc="245.0154" yc="206.8331"/>
+         </object>
+         <object id="3">
+            <box h="154.55" w="36.23" xc="201.645" yc="173.685"/>
+         </object>
+         <object id="4">
+            <box h="242.585" w="72.0679" xc="413.3489" yc="203.2225"/>
+         </object>
+         <object id="5">
+            <box h="232.965" w="65.6553" xc="508.948" yc="206.0325"/>
+         </object>
+         <object id="6">
+            <box h="122.1092" w="36.305" xc="522.4071" yc="172.66"/>
+         </object>
+         <object id="7">
+            <box h="193.84" w="61.3" xc="588.7563" yc="181.5172"/>
+         </object>
+         <object id="8">
+            <box h="127.0797" w="27.0162" xc="626.6116" yc="171.1802"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7030">
+      <objectlist>
+         <object id="1">
+            <box h="218.56" w="61.08" xc="78.62" yc="211.4203"/>
+         </object>
+         <object id="2">
+            <box h="222.8779" w="73.925" xc="248.9825" yc="206.5467"/>
+         </object>
+         <object id="3">
+            <box h="154.5578" w="36.35" xc="201.665" yc="173.6889"/>
+         </object>
+         <object id="4">
+            <box h="242.035" w="71.9363" xc="416.3265" yc="203.0128"/>
+         </object>
+         <object id="5">
+            <box h="232.41" w="65.7863" xc="511.8181" yc="205.7992"/>
+         </object>
+         <object id="6">
+            <box h="122.1031" w="36.2751" xc="521.0425" yc="172.7678"/>
+         </object>
+         <object id="7">
+            <box h="193.5775" w="61.2479" xc="586.0193" yc="181.4879"/>
+         </object>
+         <object id="8">
+            <box h="127.1314" w="28.8386" xc="625.6998" yc="171.1544"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7031">
+      <objectlist>
+         <object id="1">
+            <box h="218.56" w="61.08" xc="73.2867" yc="211.8134"/>
+         </object>
+         <object id="2">
+            <box h="222.33" w="73.6751" xc="252.9497" yc="206.2608"/>
+         </object>
+         <object id="3">
+            <box h="154.5658" w="36.47" xc="201.685" yc="173.6929"/>
+         </object>
+         <object id="4">
+            <box h="241.485" w="71.8054" xc="419.3044" yc="202.8034"/>
+         </object>
+         <object id="5">
+            <box h="231.855" w="65.9179" xc="514.6886" yc="205.5655"/>
+         </object>
+         <object id="6">
+            <box h="122.0969" w="36.2454" xc="519.6777" yc="172.8763"/>
+         </object>
+         <object id="7">
+            <box h="193.3147" w="61.1963" xc="583.2828" yc="181.4582"/>
+         </object>
+         <object id="8">
+            <box h="127.1853" w="30.725" xc="624.7556" yc="171.1277"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7032">
+      <objectlist>
+         <object id="1">
+            <box h="218.56" w="61.08" xc="67.9533" yc="212.2066"/>
+         </object>
+         <object id="2">
+            <box h="221.7821" w="73.4254" xc="256.9164" yc="205.9752"/>
+         </object>
+         <object id="3">
+            <box h="154.5742" w="36.59" xc="201.705" yc="173.6971"/>
+         </object>
+         <object id="4">
+            <box h="240.935" w="71.675" xc="422.2825" yc="202.5944"/>
+         </object>
+         <object id="5">
+            <box h="231.3" w="66.05" xc="517.5591" yc="205.3316"/>
+         </object>
+         <object id="6">
+            <box h="122.0908" w="36.2163" xc="518.3131" yc="172.9854"/>
+         </object>
+         <object id="7">
+            <box h="193.0516" w="61.1454" xc="580.5464" yc="181.4285"/>
+         </object>
+         <object id="8">
+            <box h="127.2401" w="32.63" xc="623.8019" yc="171.1009"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7033">
+      <objectlist>
+         <object id="1">
+            <box h="218.5541" w="61.2382" xc="62.5948" yc="212.5997"/>
+         </object>
+         <object id="2">
+            <box h="221.2337" w="73.1763" xc="260.8827" yc="205.6891"/>
+         </object>
+         <object id="3">
+            <box h="154.5822" w="36.71" xc="201.725" yc="173.7011"/>
+         </object>
+         <object id="4">
+            <box h="240.385" w="71.5446" xc="425.2606" yc="202.3856"/>
+         </object>
+         <object id="5">
+            <box h="230.745" w="66.1821" xc="520.4292" yc="205.0975"/>
+         </object>
+         <object id="6">
+            <box h="122.085" w="36.1879" xc="516.9489" yc="173.0946"/>
+         </object>
+         <object id="7">
+            <box h="192.7884" w="61.0951" xc="577.8097" yc="181.3992"/>
+         </object>
+         <object id="8">
+            <box h="127.295" w="34.535" xc="622.8484" yc="171.0744"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7034">
+      <objectlist>
+         <object id="1">
+            <box h="218.5339" w="61.7821" xc="57.2019" yc="212.9904"/>
+         </object>
+         <object id="2">
+            <box h="220.6846" w="72.9279" xc="264.8488" yc="205.4023"/>
+         </object>
+         <object id="3">
+            <box h="154.59" w="36.83" xc="201.745" yc="173.705"/>
+         </object>
+         <object id="4">
+            <box h="239.835" w="71.4137" xc="428.2385" yc="202.1766"/>
+         </object>
+         <object id="5">
+            <box h="230.19" w="66.3137" xc="523.2988" yc="204.8634"/>
+         </object>
+         <object id="6">
+            <box h="122.0792" w="36.16" xc="515.5851" yc="173.2033"/>
+         </object>
+         <object id="7">
+            <box h="192.5253" w="61.045" xc="575.0725" yc="181.3699"/>
+         </object>
+         <object id="8">
+            <box h="127.3494" w="36.4214" xc="621.8906" yc="171.053"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7035">
+      <objectlist>
+         <object id="1">
+            <box h="218.483" w="63.1549" xc="51.7698" yc="213.3738"/>
+         </object>
+         <object id="2">
+            <box h="220.1349" w="72.68" xc="268.8151" yc="205.1152"/>
+         </object>
+         <object id="3">
+            <box h="154.5978" w="36.95" xc="201.765" yc="173.7089"/>
+         </object>
+         <object id="4">
+            <box h="239.285" w="71.2821" xc="431.2161" yc="201.9672"/>
+         </object>
+         <object id="5">
+            <box h="229.635" w="66.4447" xc="526.1682" yc="204.6295"/>
+         </object>
+         <object id="6">
+            <box h="122.073" w="36.1321" xc="514.2215" yc="173.3111"/>
+         </object>
+         <object id="7">
+            <box h="192.2625" w="60.995" xc="572.3354" yc="181.3404"/>
+         </object>
+         <object id="8">
+            <box h="127.4019" w="38.2438" xc="620.9169" yc="171.0483"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7036">
+      <objectlist>
+         <object id="1">
+            <box h="218.3886" w="65.6998" xc="46.3853" yc="213.7393"/>
+         </object>
+         <object id="2">
+            <box h="219.585" w="72.4321" xc="272.7815" yc="204.8283"/>
+         </object>
+         <object id="3">
+            <box h="154.6058" w="37.0699" xc="201.785" yc="173.7129"/>
+         </object>
+         <object id="4">
+            <box h="238.7351" w="71.15" xc="434.1933" yc="201.7575"/>
+         </object>
+         <object id="5">
+            <box h="229.08" w="66.5753" xc="529.0377" yc="204.3958"/>
+         </object>
+         <object id="6">
+            <box h="122.0666" w="36.1037" xc="512.8581" yc="173.4182"/>
+         </object>
+         <object id="7">
+            <box h="192" w="60.945" xc="569.5988" yc="181.3108"/>
+         </object>
+         <object id="8">
+            <box h="127.4495" w="39.9047" xc="619.9022" yc="171.0861"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7037">
+      <objectlist>
+         <object id="1">
+            <box h="218.26" w="69.165" xc="41.3139" yc="214.0718"/>
+         </object>
+         <object id="2">
+            <box h="219.0351" w="72.1837" xc="276.7481" yc="204.5417"/>
+         </object>
+         <object id="3">
+            <box h="154.6142" w="37.1896" xc="201.8048" yc="173.7171"/>
+         </object>
+         <object id="4">
+            <box h="238.1854" w="71.0179" xc="437.1706" yc="201.5477"/>
+         </object>
+         <object id="5">
+            <box h="228.525" w="66.7063" xc="531.9073" yc="204.1625"/>
+         </object>
+         <object id="6">
+            <box h="122.0629" w="36.0757" xc="511.4881" yc="173.5229"/>
+         </object>
+         <object id="7">
+            <box h="191.7376" w="60.895" xc="566.8628" yc="181.2815"/>
+         </object>
+         <object id="8">
+            <box h="127.4883" w="41.2659" xc="618.8113" yc="171.2031"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7038">
+      <objectlist>
+         <object id="1">
+            <box h="218.149" w="72.3782" xc="36.1891" yc="214.359"/>
+         </object>
+         <object id="2">
+            <box h="218.4854" w="71.9346" xc="280.7151" yc="204.255"/>
+         </object>
+         <object id="3">
+            <box h="154.6222" w="37.3087" xc="201.8244" yc="173.7211"/>
+         </object>
+         <object id="4">
+            <box h="237.6363" w="70.8863" xc="440.1481" yc="201.3382"/>
+         </object>
+         <object id="5">
+            <box h="227.97" w="66.8379" xc="534.777" yc="203.9292"/>
+         </object>
+         <object id="6">
+            <box h="122.0694" w="36.0513" xc="510.0941" yc="173.6205"/>
+         </object>
+         <object id="7">
+            <box h="191.475" w="60.845" xc="564.1272" yc="181.2525"/>
+         </object>
+         <object id="8">
+            <box h="127.5153" w="42.219" xc="617.6162" yc="171.4285"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7039">
+      <objectlist>
+         <object id="1">
+            <box h="218.1151" w="74.0571" xc="37.6339" yc="214.5988"/>
+         </object>
+         <object id="2">
+            <box h="217.9363" w="71.6849" xc="284.6825" yc="203.9681"/>
+         </object>
+         <object id="3">
+            <box h="154.63" w="37.4271" xc="201.8436" yc="173.725"/>
+         </object>
+         <object id="4">
+            <box h="237.0879" w="70.7554" xc="443.126" yc="201.1293"/>
+         </object>
+         <object id="5">
+            <box h="227.415" w="66.97" xc="537.6469" yc="203.6955"/>
+         </object>
+         <object id="6">
+            <box h="122.1015" w="36.0368" xc="508.6389" yc="173.7004"/>
+         </object>
+         <object id="7">
+            <box h="191.2124" w="60.795" xc="561.3912" yc="181.2235"/>
+         </object>
+         <object id="8">
+            <box h="127.5317" w="42.7629" xc="616.33" yc="171.7581"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7040">
+      <objectlist>
+         <object id="1">
+            <box h="218.217" w="73.2438" xc="32.5177" yc="214.7988"/>
+         </object>
+         <object id="2">
+            <box h="217.3879" w="71.435" xc="288.6496" yc="203.6818"/>
+         </object>
+         <object id="3">
+            <box h="154.6378" w="37.545" xc="201.8625" yc="173.7289"/>
+         </object>
+         <object id="4">
+            <box h="236.54" w="70.625" xc="446.1041" yc="200.9209"/>
+         </object>
+         <object id="5">
+            <box h="226.86" w="67.1021" xc="540.517" yc="203.4616"/>
+         </object>
+         <object id="6">
+            <box h="122.181" w="36.0411" xc="507.0698" yc="173.7473"/>
+         </object>
+         <object id="7">
+            <box h="190.95" w="60.745" xc="558.6546" yc="181.1942"/>
+         </object>
+         <object id="8">
+            <box h="127.5435" w="43.0037" xc="615.0116" yc="172.1517"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7041">
+      <objectlist>
+         <object id="1">
+            <box h="218.4801" w="69.7349" xc="27.6659" yc="214.9652"/>
+         </object>
+         <object id="2">
+            <box h="216.84" w="71.185" xc="292.6162" yc="203.3962"/>
+         </object>
+         <object id="3">
+            <box h="154.6458" w="37.6629" xc="201.8814" yc="173.7329"/>
+         </object>
+         <object id="4">
+            <box h="235.9921" w="70.4946" xc="449.0819" yc="200.713"/>
+         </object>
+         <object id="5">
+            <box h="226.305" w="67.2337" xc="543.3872" yc="203.2275"/>
+         </object>
+         <object id="6">
+            <box h="122.3252" w="36.0711" xc="505.3457" yc="173.7494"/>
+         </object>
+         <object id="7">
+            <box h="190.6876" w="60.695" xc="555.9175" yc="181.1646"/>
+         </object>
+         <object id="8">
+            <box h="127.5609" w="43.0749" xc="613.7638" yc="172.5477"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7042">
+      <objectlist>
+         <object id="1">
+            <box h="218.86" w="64.375" xc="23.2209" yc="215.0959"/>
+         </object>
+         <object id="2">
+            <box h="216.2921" w="70.935" xc="296.5821" yc="203.1111"/>
+         </object>
+         <object id="3">
+            <box h="154.6542" w="37.7813" xc="201.9006" yc="173.7371"/>
+         </object>
+         <object id="4">
+            <box h="235.4437" w="70.3637" xc="452.0593" yc="200.5049"/>
+         </object>
+         <object id="5">
+            <box h="225.75" w="67.3647" xc="546.2573" yc="202.9934"/>
+         </object>
+         <object id="6">
+            <box h="122.5336" w="36.1268" xc="503.4667" yc="173.7065"/>
+         </object>
+         <object id="7">
+            <box h="190.425" w="60.645" xc="553.1804" yc="181.1353"/>
+         </object>
+         <object id="8">
+            <box h="127.5947" w="43.0675" xc="612.7063" yc="172.885"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7043">
+      <objectlist>
+         <object id="1">
+            <box h="219.2457" w="58.8569" xc="29.4284" yc="215.1859"/>
+         </object>
+         <object id="2">
+            <box h="215.7437" w="70.685" xc="300.5474" yc="202.8257"/>
+         </object>
+         <object id="3">
+            <box h="154.6622" w="37.9004" xc="201.9202" yc="173.7411"/>
+         </object>
+         <object id="4">
+            <box h="234.8946" w="70.2321" xc="455.0361" yc="200.2963"/>
+         </object>
+         <object id="5">
+            <box h="225.195" w="67.4953" xc="549.1273" yc="202.7595"/>
+         </object>
+         <object id="6">
+            <box h="122.7891" w="36.2014" xc="501.4742" yc="173.6304"/>
+         </object>
+         <object id="7">
+            <box h="190.1624" w="60.595" xc="550.4438" yc="181.1062"/>
+         </object>
+         <object id="8">
+            <box h="127.6528" w="43.0217" xc="611.925" yc="173.1241"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7044">
+      <objectlist>
+         <object id="2">
+            <box h="215.1946" w="70.435" xc="304.5126" yc="202.5394"/>
+         </object>
+         <object id="3">
+            <box h="154.67" w="38.0201" xc="201.94" yc="173.745"/>
+         </object>
+         <object id="4">
+            <box h="234.3449" w="70.1" xc="458.0125" yc="200.0871"/>
+         </object>
+         <object id="5">
+            <box h="224.64" w="67.6263" xc="551.9972" yc="202.5258"/>
+         </object>
+         <object id="6">
+            <box h="123.0698" w="36.2862" xc="499.4205" yc="173.5364"/>
+         </object>
+         <object id="7">
+            <box h="189.9" w="60.545" xc="547.7078" yc="181.0772"/>
+         </object>
+         <object id="8">
+            <box h="127.7354" w="42.9558" xc="611.4243" yc="173.2597"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7045">
+      <objectlist>
+         <object id="2">
+            <box h="214.6449" w="70.185" xc="308.4779" yc="202.2525"/>
+         </object>
+         <object id="3">
+            <box h="154.6778" w="38.14" xc="201.96" yc="173.7489"/>
+         </object>
+         <object id="4">
+            <box h="233.795" w="69.9679" xc="460.9893" yc="199.8775"/>
+         </object>
+         <object id="5">
+            <box h="224.085" w="67.7579" xc="554.867" yc="202.2925"/>
+         </object>
+         <object id="6">
+            <box h="123.3608" w="36.3751" xc="497.3425" yc="173.4354"/>
+         </object>
+         <object id="7">
+            <box h="189.6376" w="60.495" xc="544.9722" yc="181.0479"/>
+         </object>
+         <object id="8">
+            <box h="127.8359" w="42.8751" xc="611.1298" yc="173.3192"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7046">
+      <objectlist>
+         <object id="2">
+            <box h="214.0951" w="69.935" xc="312.4438" yc="201.9653"/>
+         </object>
+         <object id="3">
+            <box h="154.6858" w="38.26" xc="201.98" yc="173.7529"/>
+         </object>
+         <object id="4">
+            <box h="233.245" w="69.8363" xc="463.9666" yc="199.6678"/>
+         </object>
+         <object id="5">
+            <box h="223.53" w="67.89" xc="557.7369" yc="202.0592"/>
+         </object>
+         <object id="6">
+            <box h="123.655" w="36.4654" xc="495.2577" yc="173.3325"/>
+         </object>
+         <object id="7">
+            <box h="189.375" w="60.445" xc="542.2362" yc="181.0183"/>
+         </object>
+         <object id="8">
+            <box h="127.9457" w="42.7865" xc="610.9466" yc="173.3376"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7047">
+      <objectlist>
+         <object id="2">
+            <box h="213.5454" w="69.685" xc="316.4104" yc="201.6786"/>
+         </object>
+         <object id="3">
+            <box h="154.6942" w="38.38" xc="202" yc="173.7571"/>
+         </object>
+         <object id="4">
+            <box h="232.695" w="69.7053" xc="466.9443" yc="199.4584"/>
+         </object>
+         <object id="5">
+            <box h="222.975" w="68.0221" xc="560.6069" yc="201.8255"/>
+         </object>
+         <object id="6">
+            <box h="123.9492" w="36.5563" xc="493.1731" yc="173.2297"/>
+         </object>
+         <object id="7">
+            <box h="189.1124" w="60.395" xc="539.4996" yc="180.989"/>
+         </object>
+         <object id="8">
+            <box h="128.0591" w="42.695" xc="610.8075" yc="173.3395"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7048">
+      <objectlist>
+         <object id="2">
+            <box h="212.9963" w="69.435" xc="320.3775" yc="201.3923"/>
+         </object>
+         <object id="3">
+            <box h="154.7022" w="38.5" xc="202.02" yc="173.7611"/>
+         </object>
+         <object id="4">
+            <box h="232.145" w="69.5747" xc="469.9223" yc="199.2494"/>
+         </object>
+         <object id="5">
+            <box h="222.42" w="68.1537" xc="563.4769" yc="201.5916"/>
+         </object>
+         <object id="6">
+            <box h="124.2431" w="36.6479" xc="491.0889" yc="173.127"/>
+         </object>
+         <object id="7">
+            <box h="188.85" w="60.345" xc="536.7625" yc="180.96"/>
+         </object>
+         <object id="8">
+            <box h="128.1731" w="42.6025" xc="610.6812" yc="173.3365"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7049">
+      <objectlist>
+         <object id="2">
+            <box h="212.4479" w="69.185" xc="324.3446" yc="201.1062"/>
+         </object>
+         <object id="3">
+            <box h="154.71" w="38.62" xc="202.04" yc="173.765"/>
+         </object>
+         <object id="4">
+            <box h="231.595" w="69.4437" xc="472.9002" yc="199.0406"/>
+         </object>
+         <object id="5">
+            <box h="221.865" w="68.2847" xc="566.3465" yc="201.3575"/>
+         </object>
+         <object id="6">
+            <box h="124.5369" w="36.74" xc="489.005" yc="173.0247"/>
+         </object>
+         <object id="7">
+            <box h="188.5876" w="60.295" xc="534.0254" yc="180.931"/>
+         </object>
+         <object id="8">
+            <box h="128.2869" w="42.5097" xc="610.5548" yc="173.3335"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7050">
+      <objectlist>
+         <object id="2">
+            <box h="211.9" w="68.9351" xc="328.3113" yc="200.82"/>
+         </object>
+         <object id="3">
+            <box h="154.7178" w="38.74" xc="202.06" yc="173.7689"/>
+         </object>
+         <object id="4">
+            <box h="231.045" w="69.3121" xc="475.8777" yc="198.8316"/>
+         </object>
+         <object id="5">
+            <box h="221.31" w="68.4153" xc="569.2158" yc="201.1234"/>
+         </object>
+         <object id="6">
+            <box h="124.8308" w="36.8321" xc="486.9211" yc="172.9233"/>
+         </object>
+         <object id="7">
+            <box h="188.325" w="60.245" xc="531.2888" yc="180.9017"/>
+         </object>
+         <object id="8">
+            <box h="128.4008" w="42.4166" xc="610.4283" yc="173.3304"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7051">
+      <objectlist>
+         <object id="2">
+            <box h="211.3521" w="68.6854" xc="332.2773" yc="200.5338"/>
+         </object>
+         <object id="3">
+            <box h="154.7258" w="38.86" xc="202.08" yc="173.7729"/>
+         </object>
+         <object id="4">
+            <box h="230.495" w="69.18" xc="478.855" yc="198.6222"/>
+         </object>
+         <object id="5">
+            <box h="220.755" w="68.5463" xc="572.0851" yc="200.8895"/>
+         </object>
+         <object id="6">
+            <box h="125.125" w="36.9237" xc="484.8369" yc="172.8225"/>
+         </object>
+         <object id="7">
+            <box h="188.0624" w="60.195" xc="528.5528" yc="180.8721"/>
+         </object>
+         <object id="8">
+            <box h="128.515" w="42.3233" xc="610.3017" yc="173.3275"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7052">
+      <objectlist>
+         <object id="2">
+            <box h="210.8037" w="68.4363" xc="336.243" yc="200.2477"/>
+         </object>
+         <object id="3">
+            <box h="154.7342" w="38.98" xc="202.1" yc="173.7771"/>
+         </object>
+         <object id="4">
+            <box h="229.945" w="69.0479" xc="481.8323" yc="198.4125"/>
+         </object>
+         <object id="5">
+            <box h="220.2" w="68.6779" xc="574.9549" yc="200.6558"/>
+         </object>
+         <object id="6">
+            <box h="125.4192" w="37.0146" xc="482.7523" yc="172.7217"/>
+         </object>
+         <object id="7">
+            <box h="187.8" w="60.145" xc="525.8172" yc="180.8428"/>
+         </object>
+         <object id="8">
+            <box h="128.6292" w="42.23" xc="610.175" yc="173.3246"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7053">
+      <objectlist>
+         <object id="2">
+            <box h="210.2546" w="68.1879" xc="340.209" yc="199.9614"/>
+         </object>
+         <object id="3">
+            <box h="154.7422" w="39.1" xc="202.12" yc="173.7811"/>
+         </object>
+         <object id="4">
+            <box h="229.395" w="68.9163" xc="484.8098" yc="198.2028"/>
+         </object>
+         <object id="5">
+            <box h="219.645" w="68.81" xc="577.8253" yc="200.4225"/>
+         </object>
+         <object id="6">
+            <box h="125.7131" w="37.1049" xc="480.6675" yc="172.6203"/>
+         </object>
+         <object id="7">
+            <box h="187.5375" w="60.095" xc="523.0812" yc="180.8137"/>
+         </object>
+         <object id="8">
+            <box h="128.7431" w="42.1367" xc="610.0483" yc="173.3215"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7054">
+      <objectlist>
+         <object id="2">
+            <box h="209.7049" w="67.94" xc="344.1754" yc="199.6747"/>
+         </object>
+         <object id="3">
+            <box h="154.75" w="39.22" xc="202.14" yc="173.785"/>
+         </object>
+         <object id="4">
+            <box h="228.845" w="68.7854" xc="487.7877" yc="197.9934"/>
+         </object>
+         <object id="5">
+            <box h="219.0901" w="68.9421" xc="580.6961" yc="200.1892"/>
+         </object>
+         <object id="6">
+            <box h="126.0069" w="37.195" xc="478.5826" yc="172.518"/>
+         </object>
+         <object id="7">
+            <box h="187.2747" w="60.045" xc="520.3446" yc="180.7846"/>
+         </object>
+         <object id="8">
+            <box h="128.8569" w="42.0434" xc="609.9217" yc="173.3185"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7055">
+      <objectlist>
+         <object id="2">
+            <box h="209.155" w="67.6921" xc="348.1424" yc="199.3875"/>
+         </object>
+         <object id="3">
+            <box h="154.7578" w="39.34" xc="202.16" yc="173.7889"/>
+         </object>
+         <object id="4">
+            <box h="228.295" w="68.655" xc="490.7658" yc="197.7844"/>
+         </object>
+         <object id="5">
+            <box h="218.5353" w="69.0737" xc="583.5665" yc="199.9558"/>
+         </object>
+         <object id="6">
+            <box h="126.3008" w="37.285" xc="476.4979" yc="172.4153"/>
+         </object>
+         <object id="7">
+            <box h="187.0116" w="59.995" xc="517.6075" yc="180.7549"/>
+         </object>
+         <object id="8">
+            <box h="128.9708" w="41.9503" xc="609.7952" yc="173.3154"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7056">
+      <objectlist>
+         <object id="2">
+            <box h="208.6051" w="67.4437" xc="352.1097" yc="199.1003"/>
+         </object>
+         <object id="3">
+            <box h="154.7658" w="39.46" xc="202.18" yc="173.7929"/>
+         </object>
+         <object id="4">
+            <box h="227.745" w="68.5246" xc="493.744" yc="197.5756"/>
+         </object>
+         <object id="5">
+            <box h="217.9809" w="69.2047" xc="586.4364" yc="199.7224"/>
+         </object>
+         <object id="6">
+            <box h="126.595" w="37.375" xc="474.4138" yc="172.3125"/>
+         </object>
+         <object id="7">
+            <box h="186.7484" w="59.945" xc="514.8704" yc="180.7251"/>
+         </object>
+         <object id="8">
+            <box h="129.085" w="41.8575" xc="609.6688" yc="173.3125"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7057">
+      <objectlist>
+         <object id="2">
+            <box h="208.0554" w="67.1946" xc="356.0773" yc="198.8136"/>
+         </object>
+         <object id="3">
+            <box h="154.7742" w="39.58" xc="202.2" yc="173.7971"/>
+         </object>
+         <object id="4">
+            <box h="227.1951" w="68.3937" xc="496.7219" yc="197.3666"/>
+         </object>
+         <object id="5">
+            <box h="217.4269" w="69.3353" xc="589.3058" yc="199.4893"/>
+         </object>
+         <object id="6">
+            <box h="126.8892" w="37.465" xc="472.3304" yc="172.2096"/>
+         </object>
+         <object id="7">
+            <box h="186.4853" w="59.895" xc="512.1338" yc="180.6954"/>
+         </object>
+         <object id="8">
+            <box h="129.1992" w="41.765" xc="609.5425" yc="173.3096"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7058">
+      <objectlist>
+         <object id="2">
+            <box h="207.5063" w="66.9449" xc="360.0446" yc="198.5273"/>
+         </object>
+         <object id="3">
+            <box h="154.7822" w="39.7" xc="202.22" yc="173.8011"/>
+         </object>
+         <object id="4">
+            <box h="226.6454" w="68.2621" xc="499.6994" yc="197.1574"/>
+         </object>
+         <object id="5">
+            <box h="216.8731" w="69.4663" xc="592.1751" yc="199.2565"/>
+         </object>
+         <object id="6">
+            <box h="127.1816" w="37.5545" xc="470.2534" yc="172.1075"/>
+         </object>
+         <object id="7">
+            <box h="186.2225" w="59.845" xc="509.3978" yc="180.6663"/>
+         </object>
+         <object id="8">
+            <box h="129.3131" w="41.6725" xc="609.4162" yc="173.3065"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7059">
+      <objectlist>
+         <object id="2">
+            <box h="206.9579" w="66.695" xc="364.0112" yc="198.2412"/>
+         </object>
+         <object id="3">
+            <box h="154.79" w="39.82" xc="202.24" yc="173.805"/>
+         </object>
+         <object id="4">
+            <box h="226.0963" w="68.13" xc="502.6767" yc="196.948"/>
+         </object>
+         <object id="5">
+            <box h="216.3201" w="69.5699" xc="595.03" yc="199.0238"/>
+         </object>
+         <object id="6">
+            <box h="127.469" w="37.6422" xc="468.1969" yc="172.0086"/>
+         </object>
+         <object id="7">
+            <box h="185.96" w="59.795" xc="506.6622" yc="180.6372"/>
+         </object>
+         <object id="8">
+            <box h="129.4269" w="41.5797" xc="609.2897" yc="173.3035"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7060">
+      <objectlist>
+         <object id="2">
+            <box h="206.41" w="66.445" xc="367.9771" yc="197.955"/>
+         </object>
+         <object id="3">
+            <box h="154.7978" w="39.94" xc="202.26" yc="173.8089"/>
+         </object>
+         <object id="4">
+            <box h="225.5479" w="67.9979" xc="505.6539" yc="196.7389"/>
+         </object>
+         <object id="5">
+            <box h="215.7704" w="69.5779" xc="597.8347" yc="198.7911"/>
+         </object>
+         <object id="6">
+            <box h="127.7443" w="37.7254" xc="466.1912" yc="171.918"/>
+         </object>
+         <object id="7">
+            <box h="185.6976" w="59.745" xc="503.9262" yc="180.6079"/>
+         </object>
+         <object id="8">
+            <box h="129.5408" w="41.4866" xc="609.1629" yc="173.3004"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7061">
+      <objectlist>
+         <object id="2">
+            <box h="205.8621" w="66.195" xc="371.9425" yc="197.6689"/>
+         </object>
+         <object id="3">
+            <box h="154.8058" w="40.06" xc="202.28" yc="173.8129"/>
+         </object>
+         <object id="4">
+            <box h="225" w="67.8663" xc="508.6315" yc="196.5301"/>
+         </object>
+         <object id="5">
+            <box h="215.2294" w="69.3435" xc="600.5114" yc="198.5589"/>
+         </object>
+         <object id="6">
+            <box h="127.9971" w="37.7999" xc="464.2803" yc="171.8431"/>
+         </object>
+         <object id="7">
+            <box h="185.435" w="59.695" xc="501.1896" yc="180.5783"/>
+         </object>
+         <object id="8">
+            <box h="129.655" w="41.3934" xc="609.0354" yc="173.2975"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7062">
+      <objectlist>
+         <object id="2">
+            <box h="205.3137" w="65.945" xc="375.9079" yc="197.383"/>
+         </object>
+         <object id="3">
+            <box h="154.8142" w="40.18" xc="202.3" yc="173.8171"/>
+         </object>
+         <object id="4">
+            <box h="224.4521" w="67.7354" xc="511.6094" yc="196.3214"/>
+         </object>
+         <object id="5">
+            <box h="214.705" w="68.6592" xc="602.9503" yc="198.3284"/>
+         </object>
+         <object id="6">
+            <box h="128.2196" w="37.8624" xc="462.4988" yc="171.7897"/>
+         </object>
+         <object id="7">
+            <box h="185.1724" w="59.645" xc="498.4525" yc="180.549"/>
+         </object>
+         <object id="8">
+            <box h="129.7692" w="41.3003" xc="608.9073" yc="173.2946"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7063">
+      <objectlist>
+         <object id="2">
+            <box h="204.7646" w="65.695" xc="379.8738" yc="197.0973"/>
+         </object>
+         <object id="3">
+            <box h="154.8222" w="40.3" xc="202.32" yc="173.8211"/>
+         </object>
+         <object id="4">
+            <box h="223.9037" w="67.605" xc="514.5875" yc="196.1128"/>
+         </object>
+         <object id="5">
+            <box h="214.2031" w="67.3625" xc="605.0658" yc="198.0999"/>
+         </object>
+         <object id="6">
+            <box h="128.412" w="37.9126" xc="460.8474" yc="171.7581"/>
+         </object>
+         <object id="7">
+            <box h="184.91" w="59.595" xc="495.7154" yc="180.52"/>
+         </object>
+         <object id="8">
+            <box h="129.8831" w="41.2075" xc="608.7788" yc="173.2915"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7064">
+      <objectlist>
+         <object id="2">
+            <box h="204.2149" w="65.445" xc="383.8404" yc="196.8113"/>
+         </object>
+         <object id="3">
+            <box h="154.83" w="40.42" xc="202.34" yc="173.825"/>
+         </object>
+         <object id="4">
+            <box h="223.3546" w="67.4746" xc="517.5656" yc="195.9042"/>
+         </object>
+         <object id="5">
+            <box h="213.7236" w="65.454" xc="606.8584" yc="197.8732"/>
+         </object>
+         <object id="6">
+            <box h="128.5825" w="37.9538" xc="459.2918" yc="171.7431"/>
+         </object>
+         <object id="7">
+            <box h="184.6476" w="59.545" xc="492.9788" yc="180.491"/>
+         </object>
+         <object id="8">
+            <box h="129.9969" w="41.115" xc="608.6504" yc="173.2885"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7065">
+      <objectlist>
+         <object id="2">
+            <box h="203.6651" w="65.195" xc="387.8075" yc="196.5247"/>
+         </object>
+         <object id="3">
+            <box h="154.8378" w="40.54" xc="202.36" yc="173.8289"/>
+         </object>
+         <object id="4">
+            <box h="222.8049" w="67.3437" xc="520.5435" yc="195.6955"/>
+         </object>
+         <object id="5">
+            <box h="213.2604" w="63.0964" xc="608.4143" yc="197.6476"/>
+         </object>
+         <object id="6">
+            <box h="128.7408" w="37.9903" xc="457.7883" yc="171.7371"/>
+         </object>
+         <object id="7">
+            <box h="184.385" w="59.495" xc="490.2428" yc="180.4617"/>
+         </object>
+         <object id="8">
+            <box h="130.1108" w="41.0225" xc="608.5225" yc="173.2854"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7066">
+      <objectlist>
+         <object id="2">
+            <box h="203.1154" w="64.945" xc="391.7746" yc="196.2377"/>
+         </object>
+         <object id="3">
+            <box h="154.8458" w="40.66" xc="202.38" yc="173.8329"/>
+         </object>
+         <object id="4">
+            <box h="222.255" w="67.2121" xc="523.5211" yc="195.4866"/>
+         </object>
+         <object id="5">
+            <box h="212.806" w="60.4962" xc="609.8424" yc="197.4225"/>
+         </object>
+         <object id="6">
+            <box h="128.8937" w="38.025" xc="456.3056" yc="171.734"/>
+         </object>
+         <object id="7">
+            <box h="184.1224" w="59.445" xc="487.5072" yc="180.4321"/>
+         </object>
+         <object id="8">
+            <box h="130.225" w="40.9297" xc="608.3953" yc="173.2825"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7067">
+      <objectlist>
+         <object id="2">
+            <box h="202.5663" w="64.695" xc="395.7412" yc="195.9509"/>
+         </object>
+         <object id="3">
+            <box h="154.8542" w="40.78" xc="202.4" yc="173.8371"/>
+         </object>
+         <object id="4">
+            <box h="221.705" w="67.08" xc="526.4983" yc="195.2772"/>
+         </object>
+         <object id="5">
+            <box h="212.3551" w="57.7997" xc="611.2198" yc="197.1975"/>
+         </object>
+         <object id="6">
+            <box h="129.0447" w="38.0592" xc="454.8287" yc="171.7311"/>
+         </object>
+         <object id="7">
+            <box h="183.86" w="59.3949" xc="484.7712" yc="180.4028"/>
+         </object>
+         <object id="8">
+            <box h="130.3392" w="40.8366" xc="608.2684" yc="173.2796"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7068">
+      <objectlist>
+         <object id="2">
+            <box h="202.0179" w="64.445" xc="399.7071" yc="195.6648"/>
+         </object>
+         <object id="3">
+            <box h="154.8622" w="40.9" xc="202.42" yc="173.8411"/>
+         </object>
+         <object id="4">
+            <box h="221.155" w="66.9479" xc="529.4755" yc="195.0675"/>
+         </object>
+         <object id="5">
+            <box h="211.9054" w="55.0749" xc="612.5825" yc="196.9727"/>
+         </object>
+         <object id="6">
+            <box h="129.1953" w="38.093" xc="453.3515" yc="171.7277"/>
+         </object>
+         <object id="7">
+            <box h="183.5976" w="59.3446" xc="482.0344" yc="180.3738"/>
+         </object>
+         <object id="8">
+            <box h="130.4531" w="40.7433" xc="608.1417" yc="173.2765"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7069">
+      <objectlist>
+         <object id="2">
+            <box h="201.47" w="64.195" xc="403.6724" yc="195.3792"/>
+         </object>
+         <object id="3">
+            <box h="154.87" w="41.02" xc="202.44" yc="173.845"/>
+         </object>
+         <object id="4">
+            <box h="220.605" w="66.8163" xc="532.4528" yc="194.8578"/>
+         </object>
+         <object id="5">
+            <box h="211.4563" w="52.35" xc="613.945" yc="196.7481"/>
+         </object>
+         <object id="6">
+            <box h="129.3463" w="38.1266" xc="451.8741" yc="171.7243"/>
+         </object>
+         <object id="7">
+            <box h="183.335" w="59.2937" xc="479.2969" yc="180.3447"/>
+         </object>
+         <object id="8">
+            <box h="130.5669" w="40.65" xc="608.015" yc="173.2735"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7070">
+      <objectlist>
+         <object id="2">
+            <box h="200.9221" w="63.9451" xc="407.6376" yc="195.0933"/>
+         </object>
+         <object id="3">
+            <box h="154.8778" w="41.14" xc="202.46" yc="173.8489"/>
+         </object>
+         <object id="4">
+            <box h="220.055" w="66.6854" xc="535.4302" yc="194.6484"/>
+         </object>
+         <object id="5">
+            <box h="211.0079" w="49.6251" xc="615.3075" yc="196.5239"/>
+         </object>
+         <object id="6">
+            <box h="129.4979" w="38.16" xc="450.397" yc="171.7218"/>
+         </object>
+         <object id="7">
+            <box h="183.0724" w="59.2421" xc="476.5589" yc="180.3154"/>
+         </object>
+         <object id="8">
+            <box h="130.6809" w="40.5567" xc="607.8883" yc="173.2705"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7071">
+      <objectlist>
+         <object id="2">
+            <box h="200.3737" w="63.6954" xc="411.5982" yc="194.8076"/>
+         </object>
+         <object id="3">
+            <box h="154.8858" w="41.26" xc="202.48" yc="173.8529"/>
+         </object>
+         <object id="4">
+            <box h="219.505" w="66.555" xc="538.4075" yc="194.4394"/>
+         </object>
+         <object id="5">
+            <box h="210.56" w="46.9003" xc="616.6698" yc="196.3"/>
+         </object>
+         <object id="6">
+            <box h="129.65" w="38.1933" xc="448.9201" yc="171.72"/>
+         </object>
+         <object id="7">
+            <box h="182.81" w="59.19" xc="473.8213" yc="180.2858"/>
+         </object>
+         <object id="8">
+            <box h="130.7953" w="40.4634" xc="607.7617" yc="173.2677"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7072">
+      <objectlist>
+         <object id="2">
+            <box h="199.8246" w="63.4463" xc="415.5423" yc="194.5245"/>
+         </object>
+         <object id="3">
+            <box h="154.8942" w="41.38" xc="202.5001" yc="173.8571"/>
+         </object>
+         <object id="4">
+            <box h="218.955" w="66.4246" xc="541.3848" yc="194.2306"/>
+         </object>
+         <object id="5">
+            <box h="210.1121" w="44.1759" xc="618.032" yc="196.0761"/>
+         </object>
+         <object id="6">
+            <box h="129.8021" w="38.2267" xc="447.4433" yc="171.7182"/>
+         </object>
+         <object id="7">
+            <box h="182.5476" w="59.1379" xc="471.0843" yc="180.2565"/>
+         </object>
+         <object id="8">
+            <box h="130.91" w="40.3703" xc="607.6352" yc="173.265"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7073">
+      <objectlist>
+         <object id="2">
+            <box h="199.2749" w="63.1979" xc="419.4442" yc="194.2488"/>
+         </object>
+         <object id="3">
+            <box h="154.9022" w="41.5" xc="202.5204" yc="173.8611"/>
+         </object>
+         <object id="4">
+            <box h="218.405" w="66.2937" xc="544.3622" yc="194.0216"/>
+         </object>
+         <object id="5">
+            <box h="209.6637" w="41.4519" xc="619.394" yc="195.8519"/>
+         </object>
+         <object id="6">
+            <box h="129.9537" w="38.26" xc="445.9666" yc="171.7156"/>
+         </object>
+         <object id="7">
+            <box h="182.285" w="59.0863" xc="468.3478" yc="180.2275"/>
+         </object>
+         <object id="8">
+            <box h="131.0247" w="40.2775" xc="607.5088" yc="173.2623"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7074">
+      <objectlist>
+         <object id="2">
+            <box h="198.725" w="62.95" xc="423.2667" yc="193.987"/>
+         </object>
+         <object id="3">
+            <box h="154.91" w="41.62" xc="202.5413" yc="173.865"/>
+         </object>
+         <object id="4">
+            <box h="217.855" w="66.1621" xc="547.3395" yc="193.8122"/>
+         </object>
+         <object id="5">
+            <box h="209.2146" w="38.7281" xc="620.756" yc="195.6273"/>
+         </object>
+         <object id="6">
+            <box h="130.1047" w="38.2934" xc="444.4897" yc="171.712"/>
+         </object>
+         <object id="7">
+            <box h="182.0224" w="59.0354" xc="465.6114" yc="180.1985"/>
+         </object>
+         <object id="8">
+            <box h="131.1391" w="40.185" xc="607.3825" yc="173.2595"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7075">
+      <objectlist>
+         <object id="2">
+            <box h="198.1751" w="62.7021" xc="426.9799" yc="193.7443"/>
+         </object>
+         <object id="3">
+            <box h="154.9178" w="41.74" xc="202.5629" yc="173.8689"/>
+         </object>
+         <object id="4">
+            <box h="217.305" w="66.03" xc="550.3167" yc="193.6025"/>
+         </object>
+         <object id="5">
+            <box h="208.7649" w="36.0041" xc="622.118" yc="195.4025"/>
+         </object>
+         <object id="6">
+            <box h="130.2553" w="38.327" xc="443.0127" yc="171.708"/>
+         </object>
+         <object id="7">
+            <box h="181.76" w="58.9851" xc="462.8747" yc="180.1692"/>
+         </object>
+         <object id="8">
+            <box h="131.2531" w="40.0925" xc="607.2562" yc="173.2565"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7076">
+      <objectlist>
+         <object id="2">
+            <box h="197.6254" w="62.4537" xc="430.583" yc="193.5206"/>
+         </object>
+         <object id="3">
+            <box h="154.9258" w="41.86" xc="202.585" yc="173.8729"/>
+         </object>
+         <object id="4">
+            <box h="216.755" w="65.8979" xc="553.2939" yc="193.3928"/>
+         </object>
+         <object id="5">
+            <box h="208.3151" w="33.2797" xc="623.4802" yc="195.1775"/>
+         </object>
+         <object id="6">
+            <box h="130.4063" w="38.3608" xc="441.5354" yc="171.7044"/>
+         </object>
+         <object id="7">
+            <box h="181.4976" w="58.935" xc="460.1375" yc="180.1396"/>
+         </object>
+         <object id="8">
+            <box h="131.3669" w="40.0033" xc="607.12" yc="173.2555"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7077">
+      <objectlist>
+         <object id="2">
+            <box h="197.0763" w="62.2046" xc="434.1047" yc="193.3114"/>
+         </object>
+         <object id="3">
+            <box h="154.9342" w="41.98" xc="202.6071" yc="173.8771"/>
+         </object>
+         <object id="4">
+            <box h="216.205" w="65.7663" xc="556.2715" yc="193.1834"/>
+         </object>
+         <object id="5">
+            <box h="207.8654" w="30.5549" xc="624.8425" yc="194.9527"/>
+         </object>
+         <object id="6">
+            <box h="130.5579" w="38.395" xc="440.0583" yc="171.7018"/>
+         </object>
+         <object id="7">
+            <box h="181.235" w="58.885" xc="457.4004" yc="180.1103"/>
+         </object>
+         <object id="8">
+            <box h="131.4808" w="39.9263" xc="606.9497" yc="173.2615"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7078">
+      <objectlist>
+         <object id="2">
+            <box h="196.5279" w="61.9549" xc="437.5824" yc="193.1101"/>
+         </object>
+         <object id="3">
+            <box h="154.9422" w="42.1" xc="202.6287" yc="173.8811"/>
+         </object>
+         <object id="4">
+            <box h="215.655" w="65.6353" xc="559.2493" yc="192.9744"/>
+         </object>
+         <object id="5">
+            <box h="207.4163" w="27.83" xc="626.205" yc="194.7281"/>
+         </object>
+         <object id="6">
+            <box h="130.71" w="38.4292" xc="438.5815" yc="171.7"/>
+         </object>
+         <object id="7">
+            <box h="180.9724" w="58.835" xc="454.6638" yc="180.0812"/>
+         </object>
+         <object id="8">
+            <box h="131.595" w="39.8805" xc="606.6938" yc="173.2852"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7079">
+      <objectlist>
+         <object id="2">
+            <box h="195.98" w="61.705" xc="441.0425" yc="192.9125"/>
+         </object>
+         <object id="3">
+            <box h="154.95" w="42.22" xc="202.6496" yc="173.885"/>
+         </object>
+         <object id="4">
+            <box h="215.1051" w="65.5047" xc="562.2273" yc="192.7656"/>
+         </object>
+         <object id="5">
+            <box h="206.9723" w="25.1317" xc="627.5541" yc="194.5061"/>
+         </object>
+         <object id="6">
+            <box h="130.8621" w="38.463" xc="437.1046" yc="171.6982"/>
+         </object>
+         <object id="7">
+            <box h="180.71" w="58.785" xc="451.9278" yc="180.0522"/>
+         </object>
+         <object id="8">
+            <box h="131.7092" w="39.8929" xc="606.2792" yc="173.3413"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7080">
+      <objectlist>
+         <object id="2">
+            <box h="195.4321" w="61.455" xc="444.4975" yc="192.7161"/>
+         </object>
+         <object id="3">
+            <box h="154.9578" w="42.3399" xc="202.6699" yc="173.8889"/>
+         </object>
+         <object id="4">
+            <box h="214.5554" w="65.3737" xc="565.2052" yc="192.5568"/>
+         </object>
+         <object id="5">
+            <box h="206.5439" w="22.5252" xc="628.8574" yc="194.292"/>
+         </object>
+         <object id="6">
+            <box h="131.0137" w="38.4966" xc="435.6274" yc="171.6957"/>
+         </object>
+         <object id="7">
+            <box h="180.4475" w="58.735" xc="449.1922" yc="180.0229"/>
+         </object>
+         <object id="8">
+            <box h="131.8231" w="39.9845" xc="605.6484" yc="173.4414"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7081">
+      <objectlist>
+         <object id="2">
+            <box h="194.8837" w="61.205" xc="447.9525" yc="192.5193"/>
+         </object>
+         <object id="3">
+            <box h="154.9658" w="42.4596" xc="202.6898" yc="173.8929"/>
+         </object>
+         <object id="4">
+            <box h="214.0063" w="65.2421" xc="568.1827" yc="192.3478"/>
+         </object>
+         <object id="5">
+            <box h="206.1538" w="20.1501" xc="630.0449" yc="194.0969"/>
+         </object>
+         <object id="6">
+            <box h="131.1647" w="38.53" xc="434.15" yc="171.6923"/>
+         </object>
+         <object id="7">
+            <box h="180.1847" w="58.685" xc="446.4562" yc="179.9932"/>
+         </object>
+         <object id="8">
+            <box h="131.9369" w="40.1556" xc="604.8017" yc="173.5852"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7082">
+      <objectlist>
+         <object id="2">
+            <box h="194.3346" w="60.955" xc="451.4076" yc="192.3219"/>
+         </object>
+         <object id="3">
+            <box h="154.9742" w="42.5787" xc="202.7094" yc="173.8971"/>
+         </object>
+         <object id="4">
+            <box h="213.4579" w="65.11" xc="571.16" yc="192.1389"/>
+         </object>
+         <object id="5">
+            <box h="205.834" w="18.2041" xc="631.0179" yc="193.937"/>
+         </object>
+         <object id="6">
+            <box h="131.3153" w="38.5633" xc="432.6725" yc="171.6889"/>
+         </object>
+         <object id="7">
+            <box h="179.9216" w="58.635" xc="443.7196" yc="179.9635"/>
+         </object>
+         <object id="8">
+            <box h="132.0508" w="40.385" xc="603.7966" yc="173.7612"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7083">
+      <objectlist>
+         <object id="2">
+            <box h="193.7849" w="60.705" xc="454.8629" yc="192.124"/>
+         </object>
+         <object id="3">
+            <box h="154.9822" w="42.6971" xc="202.7286" yc="173.9011"/>
+         </object>
+         <object id="4">
+            <box h="212.91" w="64.9779" xc="574.1373" yc="191.9303"/>
+         </object>
+         <object id="5">
+            <box h="205.6098" w="16.8422" xc="631.6989" yc="193.8249"/>
+         </object>
+         <object id="6">
+            <box h="131.4663" w="38.5967" xc="431.1952" yc="171.686"/>
+         </object>
+         <object id="7">
+            <box h="179.6584" w="58.585" xc="440.9825" yc="179.9342"/>
+         </object>
+         <object id="8">
+            <box h="132.165" w="40.6461" xc="602.7064" yc="173.9546"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7084">
+      <objectlist>
+         <object id="2">
+            <box h="193.2351" w="60.455" xc="458.3188" yc="191.9259"/>
+         </object>
+         <object id="3">
+            <box h="154.99" w="42.815" xc="202.7475" yc="173.905"/>
+         </object>
+         <object id="4">
+            <box h="212.3621" w="64.8463" xc="577.1148" yc="191.722"/>
+         </object>
+         <object id="6">
+            <box h="131.6179" w="38.63" xc="429.7181" yc="171.6839"/>
+         </object>
+         <object id="7">
+            <box h="179.3953" w="58.535" xc="438.2454" yc="179.9049"/>
+         </object>
+         <object id="8">
+            <box h="132.2792" w="40.92" xc="601.5825" yc="174.1549"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7085">
+      <objectlist>
+         <object id="2">
+            <box h="192.6854" w="60.205" xc="461.7754" yc="191.7277"/>
+         </object>
+         <object id="3">
+            <box h="154.9978" w="42.9329" xc="202.7664" yc="173.9089"/>
+         </object>
+         <object id="4">
+            <box h="211.8137" w="64.7154" xc="580.0927" yc="191.5138"/>
+         </object>
+         <object id="6">
+            <box h="131.77" w="38.6634" xc="428.2409" yc="171.6821"/>
+         </object>
+         <object id="7">
+            <box h="179.1325" w="58.485" xc="435.5088" yc="179.8754"/>
+         </object>
+         <object id="8">
+            <box h="132.3931" w="41.1976" xc="600.4485" yc="174.3575"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7086">
+      <objectlist>
+         <object id="2">
+            <box h="192.1363" w="59.955" xc="465.2325" yc="191.5298"/>
+         </object>
+         <object id="3">
+            <box h="155.0058" w="43.0513" xc="202.7856" yc="173.9129"/>
+         </object>
+         <object id="4">
+            <box h="211.2646" w="64.585" xc="583.0708" yc="191.3054"/>
+         </object>
+         <object id="6">
+            <box h="131.9221" w="38.697" xc="426.7635" yc="171.6798"/>
+         </object>
+         <object id="7">
+            <box h="178.87" w="58.435" xc="432.7728" yc="179.8458"/>
+         </object>
+         <object id="8">
+            <box h="132.5069" w="41.475" xc="599.3141" yc="174.5604"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7087">
+      <objectlist>
+         <object id="2">
+            <box h="191.5879" w="59.705" xc="468.6896" yc="191.3323"/>
+         </object>
+         <object id="3">
+            <box h="155.0142" w="43.1704" xc="202.8052" yc="173.9171"/>
+         </object>
+         <object id="4">
+            <box h="210.7149" w="64.4546" xc="586.049" yc="191.0965"/>
+         </object>
+         <object id="6">
+            <box h="132.0737" w="38.7308" xc="425.2863" yc="171.6765"/>
+         </object>
+         <object id="7">
+            <box h="178.6076" w="58.385" xc="430.0372" yc="179.8165"/>
+         </object>
+         <object id="8">
+            <box h="132.6208" w="41.7524" xc="598.1795" yc="174.7635"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7088">
+      <objectlist>
+         <object id="2">
+            <box h="191.04" w="59.455" xc="472.1462" yc="191.135"/>
+         </object>
+         <object id="3">
+            <box h="155.0222" w="43.2901" xc="202.825" yc="173.9211"/>
+         </object>
+         <object id="4">
+            <box h="210.165" w="64.3237" xc="589.0269" yc="190.8872"/>
+         </object>
+         <object id="6">
+            <box h="132.2247" w="38.765" xc="423.8094" yc="171.6727"/>
+         </object>
+         <object id="7">
+            <box h="178.345" w="58.335" xc="427.3012" yc="179.7875"/>
+         </object>
+         <object id="8">
+            <box h="132.735" w="42.03" xc="597.045" yc="174.9666"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7089">
+      <objectlist>
+         <object id="2">
+            <box h="190.4921" w="59.2051" xc="475.6021" yc="190.9377"/>
+         </object>
+         <object id="3">
+            <box h="155.0299" w="43.41" xc="202.845" yc="173.925"/>
+         </object>
+         <object id="4">
+            <box h="209.615" w="64.1921" xc="592.0044" yc="190.6774"/>
+         </object>
+         <object id="6">
+            <box h="132.3753" w="38.7992" xc="422.3327" yc="171.669"/>
+         </object>
+         <object id="7">
+            <box h="178.0824" w="58.285" xc="424.5646" yc="179.7585"/>
+         </object>
+         <object id="8">
+            <box h="132.8492" w="42.3075" xc="595.9104" yc="175.1692"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7090">
+      <objectlist>
+         <object id="2">
+            <box h="189.9437" w="58.9554" xc="479.0576" yc="190.7402"/>
+         </object>
+         <object id="3">
+            <box h="155.0374" w="43.53" xc="202.865" yc="173.9287"/>
+         </object>
+         <object id="4">
+            <box h="209.065" w="64.06" xc="594.9817" yc="190.4675"/>
+         </object>
+         <object id="6">
+            <box h="132.5263" w="38.833" xc="420.8556" yc="171.666"/>
+         </object>
+         <object id="7">
+            <box h="177.82" w="58.235" xc="421.8275" yc="179.7292"/>
+         </object>
+         <object id="8">
+            <box h="132.9631" w="42.5847" xc="594.7757" yc="175.3714"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7091">
+      <objectlist>
+         <object id="2">
+            <box h="189.3946" w="58.7063" xc="482.5131" yc="190.5423"/>
+         </object>
+         <object id="3">
+            <box h="155.045" w="43.65" xc="202.885" yc="173.9325"/>
+         </object>
+         <object id="4">
+            <box h="208.5174" w="63.9039" xc="597.9423" yc="190.2581"/>
+         </object>
+         <object id="6">
+            <box h="132.6779" w="38.8666" xc="419.392" yc="171.6649"/>
+         </object>
+         <object id="7">
+            <box h="177.5576" w="58.185" xc="419.0904" yc="179.6996"/>
+         </object>
+         <object id="8">
+            <box h="133.0769" w="42.8616" xc="593.6408" yc="175.5735"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7092">
+      <objectlist>
+         <object id="2">
+            <box h="188.8449" w="58.4579" xc="485.9689" yc="190.3441"/>
+         </object>
+         <object id="3">
+            <box h="155.0526" w="43.77" xc="202.905" yc="173.9363"/>
+         </object>
+         <object id="4">
+            <box h="207.9783" w="63.666" xc="600.8464" yc="190.0509"/>
+         </object>
+         <object id="6">
+            <box h="132.83" w="38.9" xc="417.9753" yc="171.6676"/>
+         </object>
+         <object id="7">
+            <box h="177.295" w="58.135" xc="416.3538" yc="179.6703"/>
+         </object>
+         <object id="8">
+            <box h="133.1908" w="43.1384" xc="592.5059" yc="175.7755"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7093">
+      <objectlist>
+         <object id="2">
+            <box h="188.295" w="58.21" xc="489.425" yc="190.1458"/>
+         </object>
+         <object id="3">
+            <box h="155.0599" w="43.8885" xc="202.929" yc="173.9393"/>
+         </object>
+         <object id="4">
+            <box h="207.4604" w="63.2211" xc="603.6073" yc="189.8489"/>
+         </object>
+         <object id="6">
+            <box h="132.9821" w="38.9333" xc="416.6777" yc="171.6784"/>
+         </object>
+         <object id="7">
+            <box h="177.0324" w="58.085" xc="413.6178" yc="179.6412"/>
+         </object>
+         <object id="8">
+            <box h="133.305" w="43.4153" xc="591.371" yc="175.9778"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7094">
+      <objectlist>
+         <object id="2">
+            <box h="187.7451" w="57.9621" xc="492.8812" yc="189.9475"/>
+         </object>
+         <object id="3">
+            <box h="155.0668" w="44.002" xc="202.9666" yc="173.9396"/>
+         </object>
+         <object id="4">
+            <box h="206.9818" w="62.3918" xc="606.1022" yc="189.6565"/>
+         </object>
+         <object id="6">
+            <box h="133.1337" w="38.9667" xc="415.6005" yc="171.7044"/>
+         </object>
+         <object id="7">
+            <box h="176.77" w="58.035" xc="410.8822" yc="179.6122"/>
+         </object>
+         <object id="8">
+            <box h="133.4192" w="43.6925" xc="590.2363" yc="176.1805"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7095">
+      <objectlist>
+         <object id="2">
+            <box h="187.1954" w="57.7137" xc="496.3373" yc="189.7494"/>
+         </object>
+         <object id="3">
+            <box h="155.0726" w="44.1028" xc="203.0389" yc="173.9331"/>
+         </object>
+         <object id="4">
+            <box h="206.5568" w="61.0387" xc="608.2351" yc="189.4771"/>
+         </object>
+         <object id="6">
+            <box h="133.2847" w="39" xc="414.8232" yc="171.7518"/>
+         </object>
+         <object id="7">
+            <box h="176.5076" w="57.985" xc="408.1462" yc="179.5829"/>
+         </object>
+         <object id="8">
+            <box h="133.5331" w="43.97" xc="589.1017" yc="176.3835"/>
+         </object>
+         <object id="9">
+            <box h="160.5964" w="34.3832" xc="621.4128" yc="188.613"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7096">
+      <objectlist>
+         <object id="2">
+            <box h="186.6463" w="57.4646" xc="499.7936" yc="189.5516"/>
+         </object>
+         <object id="3">
+            <box h="155.0757" w="44.18" xc="203.1756" yc="173.9138"/>
+         </object>
+         <object id="4">
+            <box h="206.1854" w="59.162" xc="610.0058" yc="189.3104"/>
+         </object>
+         <object id="6">
+            <box h="133.4353" w="39.0334" xc="414.3455" yc="171.8209"/>
+         </object>
+         <object id="7">
+            <box h="176.245" w="57.935" xc="405.4096" yc="179.5533"/>
+         </object>
+         <object id="8">
+            <box h="133.6469" w="44.2475" xc="587.9671" yc="176.5865"/>
+         </object>
+         <object id="9">
+            <box h="160.2392" w="36.7785" xc="619.0962" yc="188.8295"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7097">
+      <objectlist>
+         <object id="2">
+            <box h="186.0979" w="57.2149" xc="503.2503" yc="189.3543"/>
+         </object>
+         <object id="3">
+            <box h="155.0745" w="44.2254" xc="203.3999" yc="173.8766"/>
+         </object>
+         <object id="4">
+            <box h="205.8533" w="56.901" xc="611.5105" yc="189.153"/>
+         </object>
+         <object id="6">
+            <box h="133.5863" w="39.067" xc="414.0879" yc="171.906"/>
+         </object>
+         <object id="7">
+            <box h="175.9824" w="57.885" xc="402.6725" yc="179.524"/>
+         </object>
+         <object id="8">
+            <box h="133.7609" w="44.5247" xc="586.8323" yc="176.7895"/>
+         </object>
+         <object id="9">
+            <box h="159.8034" w="39.7018" xc="616.2691" yc="189.0931"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7098">
+      <objectlist>
+         <object id="2">
+            <box h="185.55" w="56.965" xc="506.7075" yc="189.1575"/>
+         </object>
+         <object id="3">
+            <box h="155.0685" w="44.2391" xc="203.7121" yc="173.8211"/>
+         </object>
+         <object id="4">
+            <box h="205.5424" w="54.433" xc="612.8719" yc="189.0005"/>
+         </object>
+         <object id="6">
+            <box h="133.7379" w="39.1008" xc="413.9491" yc="171.9999"/>
+         </object>
+         <object id="7">
+            <box h="175.72" w="57.835" xc="399.9354" yc="179.495"/>
+         </object>
+         <object id="8">
+            <box h="133.8753" w="44.8016" xc="585.6975" yc="176.9923"/>
+         </object>
+         <object id="9">
+            <box h="159.3251" w="42.9098" xc="613.1667" yc="189.3817"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7099">
+      <objectlist>
+         <object id="2">
+            <box h="185.0021" w="56.715" xc="510.1646" yc="188.9611"/>
+         </object>
+         <object id="3">
+            <box h="155.0589" w="44.2299" xc="204.089" yc="173.7523"/>
+         </object>
+         <object id="4">
+            <box h="205.2401" w="51.8831" xc="614.1765" yc="188.85"/>
+         </object>
+         <object id="6">
+            <box h="133.89" w="39.135" xc="413.8575" yc="172.0975"/>
+         </object>
+         <object id="7">
+            <box h="175.4576" w="57.785" xc="397.1987" yc="179.466"/>
+         </object>
+         <object id="8">
+            <box h="133.99" w="45.0784" xc="584.5626" yc="177.195"/>
+         </object>
+         <object id="9">
+            <box h="158.8327" w="46.1956" xc="609.9532" yc="189.6762"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7100">
+      <objectlist>
+         <object id="2">
+            <box h="184.4537" w="56.465" xc="513.6212" yc="188.7643"/>
+         </object>
+         <object id="3">
+            <box h="155.0477" w="44.2085" xc="204.501" yc="173.6766"/>
+         </object>
+         <object id="4">
+            <box h="204.9404" w="49.3091" xc="615.4645" yc="188.7002"/>
+         </object>
+         <object id="6">
+            <box h="134.0421" w="39.1692" xc="413.7796" yc="172.1964"/>
+         </object>
+         <object id="7">
+            <box h="175.195" w="57.735" xc="394.4625" yc="179.4367"/>
+         </object>
+         <object id="8">
+            <box h="134.1047" w="45.3532" xc="583.4248" yc="177.3962"/>
+         </object>
+         <object id="9">
+            <box h="158.3449" w="49.3934" xc="606.7015" yc="189.9619"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7101">
+      <objectlist>
+         <object id="2">
+            <box h="183.9046" w="56.215" xc="517.0771" yc="188.5669"/>
+         </object>
+         <object id="3">
+            <box h="155.0362" w="44.1821" xc="204.927" yc="173.5984"/>
+         </object>
+         <object id="4">
+            <box h="204.6349" w="46.7139" xc="616.7627" yc="188.5475"/>
+         </object>
+         <object id="6">
+            <box h="134.1937" w="39.203" xc="413.7015" yc="172.2953"/>
+         </object>
+         <object id="7">
+            <box h="174.9324" w="57.685" xc="391.7263" yc="179.4071"/>
+         </object>
+         <object id="8">
+            <box h="134.2191" w="45.6207" xc="582.2761" yc="177.5925"/>
+         </object>
+         <object id="9">
+            <box h="157.8809" w="52.2852" xc="603.4333" yc="190.2189"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7102">
+      <objectlist>
+         <object id="2">
+            <box h="183.3549" w="55.965" xc="520.5324" yc="188.369"/>
+         </object>
+         <object id="3">
+            <box h="155.025" w="44.1537" xc="205.3572" yc="173.52"/>
+         </object>
+         <object id="4">
+            <box h="204.3082" w="44.0472" xc="618.0962" yc="188.3841"/>
+         </object>
+         <object id="6">
+            <box h="134.3447" w="39.2366" xc="413.6232" yc="172.3939"/>
+         </object>
+         <object id="7">
+            <box h="174.67" w="57.635" xc="388.9896" yc="179.3778"/>
+         </object>
+         <object id="8">
+            <box h="134.3331" w="45.8695" xc="581.0993" yc="177.7763"/>
+         </object>
+         <object id="9">
+            <box h="157.4613" w="54.6097" xc="600.1349" yc="190.4231"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7103">
+      <objectlist>
+         <object id="2">
+            <box h="182.8051" w="55.715" xc="523.9875" yc="188.1709"/>
+         </object>
+         <object id="3">
+            <box h="155.0138" w="44.1246" xc="205.7874" yc="173.4419"/>
+         </object>
+         <object id="4">
+            <box h="203.9266" w="41.2007" xc="619.5193" yc="188.1933"/>
+         </object>
+         <object id="6">
+            <box h="134.4953" w="39.27" xc="413.5447" yc="172.4923"/>
+         </object>
+         <object id="7">
+            <box h="174.4076" w="57.585" xc="386.2525" yc="179.3488"/>
+         </object>
+         <object id="8">
+            <box h="134.4469" w="46.0831" xc="579.8696" yc="177.9369"/>
+         </object>
+         <object id="9">
+            <box h="157.1022" w="56.1616" xc="596.7959" yc="190.5561"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7104">
+      <objectlist>
+         <object id="2">
+            <box h="182.2554" w="55.465" xc="527.4425" yc="187.9727"/>
+         </object>
+         <object id="3">
+            <box h="155.0021" w="44.0949" xc="206.2175" yc="173.3636"/>
+         </object>
+         <object id="4">
+            <box h="203.4421" w="38.0213" xc="621.1085" yc="187.951"/>
+         </object>
+         <object id="6">
+            <box h="134.6463" w="39.3034" xc="413.4658" yc="172.5906"/>
+         </object>
+         <object id="7">
+            <box h="174.145" w="57.535" xc="383.5154" yc="179.3197"/>
+         </object>
+         <object id="8">
+            <box h="134.5608" w="46.2481" xc="578.5671" yc="178.0658"/>
+         </object>
+         <object id="9">
+            <box h="156.8041" w="56.9412" xc="593.4163" yc="190.6183"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7105">
+      <objectlist>
+         <object id="2">
+            <box h="181.7063" w="55.215" xc="530.8976" yc="187.7748"/>
+         </object>
+         <object id="3">
+            <box h="154.99" w="44.065" xc="206.6475" yc="173.2847"/>
+         </object>
+         <object id="4">
+            <box h="202.8167" w="34.3891" xc="622.9239" yc="187.6384"/>
+         </object>
+         <object id="6">
+            <box h="134.7979" w="39.337" xc="413.3866" yc="172.6889"/>
+         </object>
+         <object id="7">
+            <box h="173.8824" w="57.485" xc="380.7788" yc="179.2904"/>
+         </object>
+         <object id="8">
+            <box h="134.675" w="46.3645" xc="577.1918" yc="178.1632"/>
+         </object>
+         <object id="9">
+            <box h="156.5513" w="57.1538" xc="590.0067" yc="190.629"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7106">
+      <objectlist>
+         <object id="2">
+            <box h="181.1579" w="54.965" xc="534.3529" yc="187.5773"/>
+         </object>
+         <object id="3">
+            <box h="154.9779" w="44.0351" xc="207.0775" yc="173.2055"/>
+         </object>
+         <object id="4">
+            <box h="202.0596" w="30.3503" xc="624.9427" yc="187.2598"/>
+         </object>
+         <object id="6">
+            <box h="134.95" w="39.3708" xc="413.3073" yc="172.7875"/>
+         </object>
+         <object id="7">
+            <box h="173.62" w="57.435" xc="378.0428" yc="179.2608"/>
+         </object>
+         <object id="8">
+            <box h="134.7892" w="46.4457" xc="575.7636" yc="178.2378"/>
+         </object>
+         <object id="9">
+            <box h="156.3232" w="57.0611" xc="586.5809" yc="190.612"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7107">
+      <objectlist>
+         <object id="2">
+            <box h="180.61" w="54.715" xc="537.8088" yc="187.38"/>
+         </object>
+         <object id="3">
+            <box h="154.9662" w="44.0054" xc="207.5077" yc="173.1264"/>
+         </object>
+         <object id="4">
+            <box h="201.2309" w="26.1372" xc="627.0493" yc="186.8454"/>
+         </object>
+         <object id="6">
+            <box h="135.1021" w="39.405" xc="413.2284" yc="172.8864"/>
+         </object>
+         <object id="7">
+            <box h="173.3575" w="57.385" xc="375.3212" yc="179.2307"/>
+         </object>
+         <object id="8">
+            <box h="134.9031" w="46.5082" xc="574.3073" yc="178.3001"/>
+         </object>
+         <object id="9">
+            <box h="156.105" w="56.8479" xc="583.1488" yc="190.5841"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7108">
+      <objectlist>
+         <object id="2">
+            <box h="180.0621" w="54.4651" xc="541.2654" yc="187.1827"/>
+         </object>
+         <object id="3">
+            <box h="154.955" w="43.9763" xc="207.9381" yc="173.0475"/>
+         </object>
+         <object id="4">
+            <box h="200.4274" w="22.1428" xc="629.047" yc="186.4437"/>
+         </object>
+         <object id="6">
+            <box h="135.2537" w="39.4392" xc="413.1499" yc="172.9853"/>
+         </object>
+         <object id="7">
+            <box h="173.0947" w="57.335" xc="372.6473" yc="179.198"/>
+         </object>
+         <object id="8">
+            <box h="135.0169" w="46.5634" xc="572.8401" yc="178.3573"/>
+         </object>
+         <object id="9">
+            <box h="155.8897" w="56.6" xc="579.715" yc="190.5528"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7109">
+      <objectlist>
+         <object id="2">
+            <box h="179.5137" w="54.2154" xc="544.7227" yc="186.9852"/>
+         </object>
+         <object id="3">
+            <box h="154.9438" w="43.9479" xc="208.3689" yc="172.9686"/>
+         </object>
+         <object id="4">
+            <box h="199.7522" w="18.815" xc="630.7117" yc="186.1061"/>
+         </object>
+         <object id="6">
+            <box h="135.4047" w="39.473" xc="413.0716" yc="173.0839"/>
+         </object>
+         <object id="7">
+            <box h="172.8316" w="57.285" xc="370.0942" yc="179.158"/>
+         </object>
+         <object id="8">
+            <box h="135.1308" w="46.6166" xc="571.37" yc="178.4126"/>
+         </object>
+         <object id="9">
+            <box h="155.6741" w="56.3521" xc="576.2811" yc="190.5212"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7110">
+      <objectlist>
+         <object id="2">
+            <box h="178.9646" w="53.9663" xc="548.1803" yc="186.7873"/>
+         </object>
+         <object id="3">
+            <box h="154.9321" w="43.92" xc="208.8" yc="172.8894"/>
+         </object>
+         <object id="4">
+            <box h="199.2752" w="16.4708" xc="631.8842" yc="185.8676"/>
+         </object>
+         <object id="6">
+            <box h="135.5553" w="39.5066" xc="412.9933" yc="173.1823"/>
+         </object>
+         <object id="7">
+            <box h="172.5684" w="57.2349" xc="367.7656" yc="179.1043"/>
+         </object>
+         <object id="8">
+            <box h="135.245" w="46.6697" xc="569.8998" yc="178.4675"/>
+         </object>
+         <object id="9">
+            <box h="155.4581" w="56.1037" xc="572.8469" yc="190.489"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7111">
+      <objectlist>
+         <object id="2">
+            <box h="178.4149" w="53.7179" xc="551.6376" yc="186.5891"/>
+         </object>
+         <object id="3">
+            <box h="154.92" w="43.8921" xc="209.2311" yc="172.81"/>
+         </object>
+         <object id="6">
+            <box h="135.7063" w="39.54" xc="412.915" yc="173.2806"/>
+         </object>
+         <object id="7">
+            <box h="172.3053" w="57.1846" xc="365.7432" yc="179.0319"/>
+         </object>
+         <object id="8">
+            <box h="135.3592" w="46.7225" xc="568.4296" yc="178.5224"/>
+         </object>
+         <object id="9">
+            <box h="155.2419" w="55.8546" xc="569.4124" yc="190.4568"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7112">
+      <objectlist>
+         <object id="2">
+            <box h="177.865" w="53.47" xc="555.0946" yc="186.3908"/>
+         </object>
+         <object id="3">
+            <box h="154.9079" w="43.8637" xc="209.6619" yc="172.7306"/>
+         </object>
+         <object id="6">
+            <box h="135.8579" w="39.5733" xc="412.8367" yc="173.3789"/>
+         </object>
+         <object id="7">
+            <box h="172.0425" w="57.1337" xc="364.0273" yc="178.9412"/>
+         </object>
+         <object id="8">
+            <box h="135.4731" w="46.775" xc="566.9591" yc="178.5777"/>
+         </object>
+         <object id="9">
+            <box h="155.0258" w="55.605" xc="565.9779" yc="190.4249"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7113">
+      <objectlist>
+         <object id="2">
+            <box h="177.3151" w="53.2221" xc="558.551" yc="186.1925"/>
+         </object>
+         <object id="3">
+            <box h="154.8962" w="43.8346" xc="210.0923" yc="172.6514"/>
+         </object>
+         <object id="6">
+            <box h="136.01" w="39.6067" xc="412.7583" yc="173.4774"/>
+         </object>
+         <object id="7">
+            <box h="171.78" w="57.0821" xc="362.5363" yc="178.8373"/>
+         </object>
+         <object id="8">
+            <box h="135.5869" w="46.8274" xc="565.4884" yc="178.6335"/>
+         </object>
+         <object id="9">
+            <box h="154.81" w="55.3554" xc="562.544" yc="190.3934"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7114">
+      <objectlist>
+         <object id="2">
+            <box h="176.7654" w="52.9737" xc="562.0069" yc="185.9944"/>
+         </object>
+         <object id="3">
+            <box h="154.885" w="43.8049" xc="210.5225" yc="172.5725"/>
+         </object>
+         <object id="6">
+            <box h="136.1621" w="39.64" xc="412.68" yc="173.5761"/>
+         </object>
+         <object id="7">
+            <box h="171.5176" w="57.03" xc="361.1662" yc="178.7263"/>
+         </object>
+         <object id="8">
+            <box h="135.7008" w="46.88" xc="564.0175" yc="178.6892"/>
+         </object>
+         <object id="9">
+            <box h="154.5942" w="55.1063" xc="559.111" yc="190.3621"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7115">
+      <objectlist>
+         <object id="2">
+            <box h="176.2163" w="52.7246" xc="565.4623" yc="185.7965"/>
+         </object>
+         <object id="3">
+            <box h="154.8738" w="43.775" xc="210.9525" yc="172.4936"/>
+         </object>
+         <object id="6">
+            <box h="136.3137" w="39.6734" xc="412.6017" yc="173.6744"/>
+         </object>
+         <object id="7">
+            <box h="171.255" w="56.9779" xc="359.8439" yc="178.6125"/>
+         </object>
+         <object id="8">
+            <box h="135.815" w="46.9326" xc="562.5463" yc="178.7446"/>
+         </object>
+         <object id="9">
+            <box h="154.3781" w="54.8579" xc="555.6789" yc="190.3307"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7116">
+      <objectlist>
+         <object id="2">
+            <box h="175.6679" w="52.4749" xc="568.9175" yc="185.5989"/>
+         </object>
+         <object id="3">
+            <box h="154.8621" w="43.745" xc="211.3825" yc="172.4145"/>
+         </object>
+         <object id="6">
+            <box h="136.4646" w="39.707" xc="412.5235" yc="173.7723"/>
+         </object>
+         <object id="7">
+            <box h="170.9924" w="56.9263" xc="358.5359" yc="178.4979"/>
+         </object>
+         <object id="8">
+            <box h="135.9292" w="46.985" xc="561.075" yc="178.7996"/>
+         </object>
+         <object id="9">
+            <box h="154.1619" w="54.61" xc="552.2471" yc="190.2993"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7117">
+      <objectlist>
+         <object id="2">
+            <box h="175.12" w="52.225" xc="572.3726" yc="185.4017"/>
+         </object>
+         <object id="3">
+            <box h="154.85" w="43.7151" xc="211.8125" yc="172.3353"/>
+         </object>
+         <object id="6">
+            <box h="136.615" w="39.7408" xc="412.4454" yc="173.87"/>
+         </object>
+         <object id="7">
+            <box h="170.73" w="56.8754" xc="357.2286" yc="178.3833"/>
+         </object>
+         <object id="8">
+            <box h="136.0431" w="47.0374" xc="559.604" yc="178.8544"/>
+         </object>
+         <object id="9">
+            <box h="153.9459" w="54.3621" xc="548.8148" yc="190.268"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7118">
+      <objectlist>
+         <object id="2">
+            <box h="174.5721" w="51.975" xc="575.8279" yc="185.2045"/>
+         </object>
+         <object id="3">
+            <box h="154.8379" w="43.6854" xc="212.2424" yc="172.2564"/>
+         </object>
+         <object id="6">
+            <box h="136.7654" w="39.775" xc="412.3675" yc="173.9681"/>
+         </object>
+         <object id="7">
+            <box h="170.4676" w="56.8251" xc="355.9217" yc="178.2688"/>
+         </object>
+         <object id="8">
+            <box h="136.1569" w="47.09" xc="558.1334" yc="178.9096"/>
+         </object>
+         <object id="9">
+            <box h="153.7303" w="54.1137" xc="545.3814" yc="190.2367"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7119">
+      <objectlist>
+         <object id="2">
+            <box h="174.0237" w="51.725" xc="579.2838" yc="185.0072"/>
+         </object>
+         <object id="3">
+            <box h="154.8262" w="43.6563" xc="212.6722" yc="172.1781"/>
+         </object>
+         <object id="6">
+            <box h="136.9163" w="39.8092" xc="412.2896" yc="174.0666"/>
+         </object>
+         <object id="7">
+            <box h="170.205" w="56.775" xc="354.6147" yc="178.1542"/>
+         </object>
+         <object id="8">
+            <box h="136.2708" w="47.1426" xc="556.663" yc="178.9654"/>
+         </object>
+         <object id="9">
+            <box h="153.515" w="53.8646" xc="541.9472" yc="190.2055"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7120">
+      <objectlist>
+         <object id="2">
+            <box h="173.4746" w="51.475" xc="582.7404" yc="184.8098"/>
+         </object>
+         <object id="3">
+            <box h="154.815" w="43.6279" xc="213.102" yc="172.1"/>
+         </object>
+         <object id="6">
+            <box h="137.0679" w="39.843" xc="412.2115" yc="174.1655"/>
+         </object>
+         <object id="7">
+            <box h="169.9424" w="56.725" xc="353.3075" yc="178.0395"/>
+         </object>
+         <object id="8">
+            <box h="136.385" w="47.195" xc="555.1925" yc="179.0213"/>
+         </object>
+         <object id="9">
+            <box h="153.2997" w="53.6149" xc="538.5125" yc="190.174"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7121">
+      <objectlist>
+         <object id="2">
+            <box h="172.9249" w="51.225" xc="586.1975" yc="184.6125"/>
+         </object>
+         <object id="3">
+            <box h="154.8038" w="43.6" xc="213.5319" yc="172.0216"/>
+         </object>
+         <object id="6">
+            <box h="137.22" w="39.8766" xc="412.1333" yc="174.2647"/>
+         </object>
+         <object id="7">
+            <box h="169.68" w="56.675" xc="352.0003" yc="177.925"/>
+         </object>
+         <object id="8">
+            <box h="136.4992" w="47.2475" xc="553.7221" yc="179.0767"/>
+         </object>
+         <object id="9">
+            <box h="153.0841" w="53.3651" xc="535.0775" yc="190.142"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7122">
+      <objectlist>
+         <object id="2">
+            <box h="172.3751" w="50.975" xc="589.6546" yc="184.415"/>
+         </object>
+         <object id="3">
+            <box h="154.7921" w="43.5721" xc="213.962" yc="171.9426"/>
+         </object>
+         <object id="6">
+            <box h="137.3721" w="39.91" xc="412.055" yc="174.3636"/>
+         </object>
+         <object id="7">
+            <box h="169.4176" w="56.625" xc="350.6933" yc="177.8105"/>
+         </object>
+         <object id="8">
+            <box h="136.6131" w="47.3003" xc="552.2517" yc="179.1315"/>
+         </object>
+         <object id="9">
+            <box h="152.8681" w="53.1154" xc="531.6427" yc="190.1099"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7123">
+      <objectlist>
+         <object id="2">
+            <box h="171.8254" w="50.725" xc="593.1112" yc="184.2174"/>
+         </object>
+         <object id="3">
+            <box h="154.78" w="43.5437" xc="214.3922" yc="171.8633"/>
+         </object>
+         <object id="6">
+            <box h="137.5237" w="39.9433" xc="411.9767" yc="174.4619"/>
+         </object>
+         <object id="7">
+            <box h="169.155" w="56.575" xc="349.3867" yc="177.6958"/>
+         </object>
+         <object id="8">
+            <box h="136.7269" w="47.3534" xc="550.7814" yc="179.1863"/>
+         </object>
+         <object id="9">
+            <box h="152.6519" w="52.8663" xc="528.2081" yc="190.078"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7124">
+      <objectlist>
+         <object id="2">
+            <box h="171.2763" w="50.475" xc="596.5671" yc="184.0197"/>
+         </object>
+         <object id="3">
+            <box h="154.7679" w="43.5146" xc="214.8224" yc="171.7839"/>
+         </object>
+         <object id="6">
+            <box h="137.6747" w="39.9767" xc="411.8983" yc="174.5599"/>
+         </object>
+         <object id="7">
+            <box h="168.8924" w="56.525" xc="348.0797" yc="177.5812"/>
+         </object>
+         <object id="8">
+            <box h="136.8409" w="47.4066" xc="549.3108" yc="179.2417"/>
+         </object>
+         <object id="9">
+            <box h="152.4359" w="52.6179" xc="524.774" yc="190.0464"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7125">
+      <objectlist>
+         <object id="2">
+            <box h="170.7279" w="50.225" xc="600.0224" yc="183.8223"/>
+         </object>
+         <object id="3">
+            <box h="154.7563" w="43.4849" xc="215.2525" yc="171.7048"/>
+         </object>
+         <object id="6">
+            <box h="137.8253" w="40.01" xc="411.82" yc="174.658"/>
+         </object>
+         <object id="7">
+            <box h="168.63" w="56.475" xc="346.7724" yc="177.4667"/>
+         </object>
+         <object id="8">
+            <box h="136.9553" w="47.4597" xc="547.8398" yc="179.2977"/>
+         </object>
+         <object id="9">
+            <box h="152.2203" w="52.37" xc="521.3404" yc="190.0152"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7126">
+      <objectlist>
+         <object id="2">
+            <box h="170.1832" w="49.9508" xc="603.457" yc="183.6258"/>
+         </object>
+         <object id="3">
+            <box h="154.7453" w="43.455" xc="215.6825" yc="171.626"/>
+         </object>
+         <object id="6">
+            <box h="137.9756" w="40.0434" xc="411.7475" yc="174.7575"/>
+         </object>
+         <object id="7">
+            <box h="168.3676" w="56.425" xc="345.4649" yc="177.3521"/>
+         </object>
+         <object id="8">
+            <box h="137.07" w="47.5125" xc="546.3688" yc="179.3538"/>
+         </object>
+         <object id="9">
+            <box h="152.005" w="52.1221" xc="517.9074" yc="189.9841"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7127">
+      <objectlist>
+         <object id="2">
+            <box h="169.6497" w="49.5936" xc="606.8211" yc="183.4323"/>
+         </object>
+         <object id="3">
+            <box h="154.7347" w="43.425" xc="216.1125" yc="171.5473"/>
+         </object>
+         <object id="6">
+            <box h="138.124" w="40.077" xc="411.6948" yc="174.8604"/>
+         </object>
+         <object id="7">
+            <box h="168.105" w="56.375" xc="344.1575" yc="177.2375"/>
+         </object>
+         <object id="8">
+            <box h="137.1847" w="47.565" xc="544.8978" yc="179.4095"/>
+         </object>
+         <object id="9">
+            <box h="151.7897" w="51.8737" xc="514.4747" yc="189.9528"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7128">
+      <objectlist>
+         <object id="2">
+            <box h="169.1437" w="49.0266" xc="610.0076" yc="183.2458"/>
+         </object>
+         <object id="3">
+            <box h="154.7237" w="43.3951" xc="216.5425" yc="171.4685"/>
+         </object>
+         <object id="6">
+            <box h="138.2669" w="40.1108" xc="411.6921" yc="174.9712"/>
+         </object>
+         <object id="7">
+            <box h="167.8424" w="56.325" xc="342.8501" yc="177.1229"/>
+         </object>
+         <object id="8">
+            <box h="137.2991" w="47.6174" xc="543.4271" yc="179.4645"/>
+         </object>
+         <object id="9">
+            <box h="151.5741" w="51.6246" xc="511.0423" yc="189.9212"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7129">
+      <objectlist>
+         <object id="2">
+            <box h="168.6892" w="48.071" xc="612.8649" yc="183.0726"/>
+         </object>
+         <object id="3">
+            <box h="154.7121" w="43.3654" xc="216.9727" yc="171.3895"/>
+         </object>
+         <object id="6">
+            <box h="138.3982" w="40.145" xc="411.7818" yc="175.0956"/>
+         </object>
+         <object id="7">
+            <box h="167.58" w="56.275" xc="341.5426" yc="177.0083"/>
+         </object>
+         <object id="8">
+            <box h="137.4131" w="47.67" xc="541.9567" yc="179.5194"/>
+         </object>
+         <object id="9">
+            <box h="151.3585" w="51.3773" xc="507.6125" yc="189.8883"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7130">
+      <objectlist>
+         <object id="2">
+            <box h="168.3054" w="46.5859" xc="615.274" yc="182.9183"/>
+         </object>
+         <object id="3">
+            <box h="154.7" w="43.3363" xc="217.4031" yc="171.3103"/>
+         </object>
+         <object id="6">
+            <box h="138.5132" w="40.1792" xc="411.9969" yc="175.2382"/>
+         </object>
+         <object id="7">
+            <box h="167.3176" w="56.225" xc="340.2353" yc="176.8938"/>
+         </object>
+         <object id="8">
+            <box h="137.5269" w="47.7226" xc="540.4863" yc="179.5746"/>
+         </object>
+         <object id="9">
+            <box h="151.144" w="51.1383" xc="504.1919" yc="189.8524"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7131">
+      <objectlist>
+         <object id="2">
+            <box h="167.9928" w="44.5712" xc="617.2345" yc="182.7831"/>
+         </object>
+         <object id="3">
+            <box h="154.6879" w="43.3079" xc="217.8339" yc="171.2314"/>
+         </object>
+         <object id="6">
+            <box h="138.6119" w="40.213" xc="412.3372" yc="175.3991"/>
+         </object>
+         <object id="7">
+            <box h="167.055" w="56.175" xc="338.9283" yc="176.7792"/>
+         </object>
+         <object id="8">
+            <box h="137.6408" w="47.775" xc="539.0158" yc="179.6304"/>
+         </object>
+         <object id="9">
+            <box h="150.9332" w="50.9204" xc="500.7956" yc="189.8099"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7132">
+      <objectlist>
+         <object id="2">
+            <box h="167.7327" w="42.1673" xc="618.865" yc="182.6625"/>
+         </object>
+         <object id="3">
+            <box h="154.6762" w="43.28" xc="218.265" yc="171.1531"/>
+         </object>
+         <object id="6">
+            <box h="138.699" w="40.2466" xc="412.7692" yc="175.5741"/>
+         </object>
+         <object id="7">
+            <box h="166.7924" w="56.125" xc="337.6217" yc="176.6645"/>
+         </object>
+         <object id="8">
+            <box h="137.755" w="47.8274" xc="537.5454" yc="179.6863"/>
+         </object>
+         <object id="9">
+            <box h="150.7291" w="50.7418" xc="497.4452" yc="189.7546"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7133">
+      <objectlist>
+         <object id="2">
+            <box h="167.5008" w="39.553" xc="620.3169" yc="182.5497"/>
+         </object>
+         <object id="3">
+            <box h="154.665" w="43.2521" xc="218.6913" yc="171.0753"/>
+         </object>
+         <object id="6">
+            <box h="138.7805" w="40.28" xc="413.2507" yc="175.7574"/>
+         </object>
+         <object id="7">
+            <box h="166.53" w="56.075" xc="336.3147" yc="176.55"/>
+         </object>
+         <object id="8">
+            <box h="137.8692" w="47.88" xc="536.075" yc="179.7417"/>
+         </object>
+         <object id="9">
+            <box h="150.5341" w="50.6168" xc="494.1579" yc="189.6815"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7134">
+      <objectlist>
+         <object id="2">
+            <box h="167.28" w="36.8549" xc="621.6975" yc="182.44"/>
+         </object>
+         <object id="3">
+            <box h="154.6538" w="43.2237" xc="219.1008" yc="170.9981"/>
+         </object>
+         <object id="6">
+            <box h="138.86" w="40.3133" xc="413.7517" yc="175.9442"/>
+         </object>
+         <object id="7">
+            <box h="166.2675" w="56.025" xc="335.0075" yc="176.4354"/>
+         </object>
+         <object id="8">
+            <box h="137.9831" w="47.9326" xc="534.6046" yc="179.7965"/>
+         </object>
+         <object id="9">
+            <box h="150.3482" w="50.5454" xc="490.934" yc="189.5905"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7135">
+      <objectlist>
+         <object id="2">
+            <box h="167.0624" w="34.1324" xc="623.0574" yc="182.3312"/>
+         </object>
+         <object id="3">
+            <box h="154.6421" w="43.1946" xc="219.4683" yc="170.9226"/>
+         </object>
+         <object id="6">
+            <box h="138.9388" w="40.3467" xc="414.2583" yc="176.1316"/>
+         </object>
+         <object id="7">
+            <box h="166.0047" w="55.975" xc="333.7003" yc="176.3207"/>
+         </object>
+         <object id="8">
+            <box h="138.0969" w="47.985" xc="533.1341" yc="179.8513"/>
+         </object>
+         <object id="9">
+            <box h="150.1691" w="50.5133" xc="487.757" yc="189.4866"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7136">
+      <objectlist>
+         <object id="2">
+            <box h="166.8449" w="31.41" xc="624.4179" yc="182.2225"/>
+         </object>
+         <object id="3">
+            <box h="154.63" w="43.1649" xc="219.7585" yc="170.8506"/>
+         </object>
+         <object id="6">
+            <box h="139.0171" w="40.38" xc="414.765" yc="176.3185"/>
+         </object>
+         <object id="7">
+            <box h="165.7416" w="55.925" xc="332.3933" yc="176.2058"/>
+         </object>
+         <object id="8">
+            <box h="138.2108" w="48.0375" xc="531.6634" yc="179.9066"/>
+         </object>
+         <object id="9">
+            <box h="149.9938" w="50.5024" xc="484.6057" yc="189.3758"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7137">
+      <objectlist>
+         <object id="2">
+            <box h="166.6293" w="28.7142" xc="625.7655" yc="182.1146"/>
+         </object>
+         <object id="3">
+            <box h="154.6179" w="43.135" xc="219.9436" yc="170.7837"/>
+         </object>
+         <object id="6">
+            <box h="139.095" w="40.4134" xc="415.2717" yc="176.5049"/>
+         </object>
+         <object id="7">
+            <box h="165.4784" w="55.875" xc="331.0867" yc="176.0909"/>
+         </object>
+         <object id="8">
+            <box h="138.325" w="48.0903" xc="530.1926" yc="179.9625"/>
+         </object>
+         <object id="9">
+            <box h="149.82" w="50.5" xc="481.465" yc="189.2622"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7138">
+      <objectlist>
+         <object id="2">
+            <box h="166.4204" w="26.1098" xc="627.0673" yc="182.0102"/>
+         </object>
+         <object id="3">
+            <box h="154.6062" w="43.105" xc="220.0236" yc="170.7218"/>
+         </object>
+         <object id="6">
+            <box h="139.1729" w="40.447" xc="415.7784" yc="176.6914"/>
+         </object>
+         <object id="7">
+            <box h="165.2153" w="55.825" xc="329.7797" yc="175.976"/>
+         </object>
+         <object id="8">
+            <box h="138.4392" w="48.1434" xc="528.7217" yc="180.0184"/>
+         </object>
+         <object id="9">
+            <box h="149.6466" w="50.5" xc="478.3271" yc="189.1474"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7139">
+      <objectlist>
+         <object id="2">
+            <box h="166.2295" w="23.7366" xc="628.2533" yc="181.9148"/>
+         </object>
+         <object id="3">
+            <box h="154.595" w="43.0751" xc="220.0265" yc="170.6637"/>
+         </object>
+         <object id="6">
+            <box h="139.2512" w="40.4808" xc="416.285" yc="176.8782"/>
+         </object>
+         <object id="7">
+            <box h="164.9525" w="55.775" xc="328.4724" yc="175.8613"/>
+         </object>
+         <object id="8">
+            <box h="138.5531" w="48.1966" xc="527.2508" yc="180.0737"/>
+         </object>
+         <object id="9">
+            <box h="149.473" w="50.5" xc="475.1887" yc="189.0323"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7140">
+      <objectlist>
+         <object id="2">
+            <box h="166.0727" w="21.7921" xc="629.2248" yc="181.8363"/>
+         </object>
+         <object id="3">
+            <box h="154.5838" w="43.0454" xc="219.9879" yc="170.6075"/>
+         </object>
+         <object id="6">
+            <box h="139.33" w="40.515" xc="416.7912" yc="177.0651"/>
+         </object>
+         <object id="7">
+            <box h="164.69" w="55.725" xc="327.1649" yc="175.7467"/>
+         </object>
+         <object id="8">
+            <box h="138.6669" w="48.2497" xc="525.7802" yc="180.1285"/>
+         </object>
+         <object id="9">
+            <box h="149.2992" w="50.5" xc="472.0496" yc="188.9173"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7141">
+      <objectlist>
+         <object id="2">
+            <box h="165.9628" w="20.4313" xc="629.9047" yc="181.7814"/>
+         </object>
+         <object id="3">
+            <box h="154.5721" w="43.0163" xc="219.9331" yc="170.5524"/>
+         </object>
+         <object id="6">
+            <box h="139.4088" w="40.5492" xc="417.2967" yc="177.2522"/>
+         </object>
+         <object id="7">
+            <box h="164.4276" w="55.675" xc="325.8575" yc="175.6321"/>
+         </object>
+         <object id="8">
+            <box h="138.7808" w="48.3025" xc="524.3097" yc="180.1833"/>
+         </object>
+         <object id="9">
+            <box h="149.125" w="50.5" xc="468.91" yc="188.8026"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7142">
+      <objectlist>
+         <object id="3">
+            <box h="154.56" w="42.9879" xc="219.8739" yc="170.4979"/>
+         </object>
+         <object id="6">
+            <box h="139.4871" w="40.583" xc="417.8015" yc="177.4394"/>
+         </object>
+         <object id="7">
+            <box h="164.165" w="55.625" xc="324.5501" yc="175.5175"/>
+         </object>
+         <object id="8">
+            <box h="138.895" w="48.355" xc="522.8392" yc="180.2387"/>
+         </object>
+         <object id="9">
+            <box h="148.9508" w="50.5" xc="465.7704" yc="188.688"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7143">
+      <objectlist>
+         <object id="3">
+            <box h="154.5479" w="42.96" xc="219.815" yc="170.4439"/>
+         </object>
+         <object id="6">
+            <box h="139.565" w="40.6166" xc="418.3061" yc="177.6267"/>
+         </object>
+         <object id="7">
+            <box h="163.9024" w="55.575" xc="323.2426" yc="175.4029"/>
+         </object>
+         <object id="8">
+            <box h="139.0092" w="48.4074" xc="521.3687" yc="180.2946"/>
+         </object>
+         <object id="9">
+            <box h="148.777" w="50.5" xc="462.6313" yc="188.5735"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7144">
+      <objectlist>
+         <object id="3">
+            <box h="154.5362" w="42.9321" xc="219.7561" yc="170.3902"/>
+         </object>
+         <object id="6">
+            <box h="139.6429" w="40.65" xc="418.8113" yc="177.8137"/>
+         </object>
+         <object id="7">
+            <box h="163.64" w="55.525" xc="321.9353" yc="175.2883"/>
+         </object>
+         <object id="8">
+            <box h="139.1231" w="48.46" xc="519.8983" yc="180.3504"/>
+         </object>
+         <object id="9">
+            <box h="148.6034" w="50.5" xc="459.4929" yc="188.4591"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7145">
+      <objectlist>
+         <object id="3">
+            <box h="154.525" w="42.9037" xc="219.6969" yc="170.3362"/>
+         </object>
+         <object id="6">
+            <box h="139.7213" w="40.6834" xc="419.3171" yc="178.0006"/>
+         </object>
+         <object id="7">
+            <box h="163.3776" w="55.475" xc="320.6283" yc="175.1738"/>
+         </object>
+         <object id="8">
+            <box h="139.2369" w="48.5126" xc="518.4279" yc="180.4056"/>
+         </object>
+         <object id="9">
+            <box h="148.43" w="50.5" xc="456.355" yc="188.3449"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7146">
+      <objectlist>
+         <object id="3">
+            <box h="154.5138" w="42.8746" xc="219.6373" yc="170.2815"/>
+         </object>
+         <object id="6">
+            <box h="139.8003" w="40.717" xc="419.8236" yc="178.1879"/>
+         </object>
+         <object id="7">
+            <box h="163.115" w="55.425" xc="319.3217" yc="175.0592"/>
+         </object>
+         <object id="8">
+            <box h="139.3508" w="48.565" xc="516.9572" yc="180.4604"/>
+         </object>
+         <object id="9">
+            <box h="148.2567" w="50.4944" xc="453.2225" yc="188.2298"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7147">
+      <objectlist>
+         <object id="3">
+            <box h="154.5021" w="42.8449" xc="219.5775" yc="170.2261"/>
+         </object>
+         <object id="6">
+            <box h="139.8797" w="40.7508" xc="420.3304" yc="178.3757"/>
+         </object>
+         <object id="7">
+            <box h="162.8524" w="55.375" xc="318.0147" yc="174.9445"/>
+         </object>
+         <object id="8">
+            <box h="139.4666" w="48.6167" xc="515.4885" yc="180.5158"/>
+         </object>
+         <object id="9">
+            <box h="148.0834" w="50.4697" xc="450.1077" yc="188.1116"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7148">
+      <objectlist>
+         <object id="3">
+            <box h="154.49" w="42.815" xc="219.5175" yc="170.1704"/>
+         </object>
+         <object id="6">
+            <box h="139.9587" w="40.785" xc="420.8375" yc="178.5635"/>
+         </object>
+         <object id="7">
+            <box h="162.5923" w="55.3227" xc="316.7121" yc="174.8299"/>
+         </object>
+         <object id="8">
+            <box h="139.5877" w="48.6662" xc="514.0275" yc="180.5736"/>
+         </object>
+         <object id="9">
+            <box h="147.9104" w="50.3965" xc="447.0385" yc="187.9865"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7149">
+      <objectlist>
+         <object id="3">
+            <box h="154.4779" w="42.7851" xc="219.4575" yc="170.1152"/>
+         </object>
+         <object id="6">
+            <box h="140.0371" w="40.8192" xc="421.3446" yc="178.7508"/>
+         </object>
+         <object id="7">
+            <box h="162.3398" w="55.2623" xc="315.4254" yc="174.7146"/>
+         </object>
+         <object id="8">
+            <box h="139.7221" w="48.7095" xc="512.5862" yc="180.6365"/>
+         </object>
+         <object id="9">
+            <box h="147.738" w="50.2337" xc="444.0545" yc="187.8494"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7150">
+      <objectlist>
+         <object id="3">
+            <box h="154.4662" w="42.7554" xc="219.3977" yc="170.0609"/>
+         </object>
+         <object id="6">
+            <box h="140.115" w="40.853" xc="421.8515" yc="178.9374"/>
+         </object>
+         <object id="7">
+            <box h="162.1068" w="55.1819" xc="314.1793" yc="174.5977"/>
+         </object>
+         <object id="8">
+            <box h="139.8817" w="48.7414" xc="511.1818" yc="180.7083"/>
+         </object>
+         <object id="9">
+            <box h="147.5663" w="49.9487" xc="441.1871" yc="187.6958"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7151">
+      <objectlist>
+         <object id="3">
+            <box h="154.455" w="42.7263" xc="219.3382" yc="170.0075"/>
+         </object>
+         <object id="6">
+            <box h="140.1929" w="40.8866" xc="422.3583" yc="179.1239"/>
+         </object>
+         <object id="7">
+            <box h="161.9104" w="55.0642" xc="313.0082" yc="174.4782"/>
+         </object>
+         <object id="8">
+            <box h="140.0756" w="48.7581" xc="509.8275" yc="180.7922"/>
+         </object>
+         <object id="9">
+            <box h="147.3954" w="49.5414" xc="438.4364" yc="187.5253"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7152">
+      <objectlist>
+         <object id="3">
+            <box h="154.4438" w="42.6979" xc="219.2793" yc="169.9541"/>
+         </object>
+         <object id="6">
+            <box h="140.2712" w="40.92" xc="422.865" yc="179.3106"/>
+         </object>
+         <object id="7">
+            <box h="161.7642" w="54.8963" xc="311.9389" yc="174.3551"/>
+         </object>
+         <object id="8">
+            <box h="140.304" w="48.7601" xc="508.5232" yc="180.8883"/>
+         </object>
+         <object id="9">
+            <box h="147.2251" w="49.0442" xc="435.7714" yc="187.3421"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7153">
+      <objectlist>
+         <object id="3">
+            <box h="154.4321" w="42.67" xc="219.2209" yc="169.8998"/>
+         </object>
+         <object id="6">
+            <box h="140.35" w="40.9533" xc="423.3717" yc="179.4976"/>
+         </object>
+         <object id="7">
+            <box h="161.6685" w="54.6782" xc="310.9712" yc="174.2286"/>
+         </object>
+         <object id="8">
+            <box h="140.5577" w="48.7513" xc="507.2559" yc="180.9936"/>
+         </object>
+         <object id="9">
+            <box h="147.055" w="48.4981" xc="433.1526" yc="187.1517"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7154">
+      <objectlist>
+         <object id="3">
+            <box h="154.42" w="42.6421" xc="219.163" yc="169.8447"/>
+         </object>
+         <object id="6">
+            <box h="140.4288" w="40.9867" xc="423.8783" yc="179.6845"/>
+         </object>
+         <object id="7">
+            <box h="161.6102" w="54.4236" xc="310.0783" yc="174.1001"/>
+         </object>
+         <object id="8">
+            <box h="140.8247" w="48.7365" xc="506.0086" yc="181.104"/>
+         </object>
+         <object id="9">
+            <box h="146.885" w="47.9321" xc="430.5524" yc="186.9587"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7155">
+      <objectlist>
+         <object id="3">
+            <box h="154.4079" w="42.6137" xc="219.1049" yc="169.7893"/>
+         </object>
+         <object id="6">
+            <box h="140.5071" w="41.02" xc="424.385" yc="179.8713"/>
+         </object>
+         <object id="7">
+            <box h="161.5723" w="54.1498" xc="309.2261" yc="173.9707"/>
+         </object>
+         <object id="8">
+            <box h="141.0969" w="48.7188" xc="504.7694" yc="181.2165"/>
+         </object>
+         <object id="9">
+            <box h="146.715" w="47.36" xc="427.9579" yc="186.7654"/>
+         </object>
+         <object id="10">
+            <box h="172.009" w="29.8178" xc="14.9089" yc="205.4198"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7156">
+      <objectlist>
+         <object id="3">
+            <box h="154.3962" w="42.5846" xc="219.0463" yc="169.7344"/>
+         </object>
+         <object id="6">
+            <box h="140.585" w="41.0534" xc="424.8917" yc="180.0583"/>
+         </object>
+         <object id="7">
+            <box h="161.5421" w="53.8684" xc="308.3905" yc="173.8411"/>
+         </object>
+         <object id="8">
+            <box h="141.3708" w="48.7" xc="503.5321" yc="181.3295"/>
+         </object>
+         <object id="9">
+            <box h="146.545" w="46.7879" xc="425.3639" yc="186.5725"/>
+         </object>
+         <object id="10">
+            <box h="173.0066" w="32.3851" xc="16.1925" yc="204.7779"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7157">
+      <objectlist>
+         <object id="3">
+            <box h="154.385" w="42.5549" xc="218.9871" yc="169.6804"/>
+         </object>
+         <object id="6">
+            <box h="140.6629" w="41.087" xc="425.3985" yc="180.2456"/>
+         </object>
+         <object id="7">
+            <box h="161.5137" w="53.585" xc="307.5604" yc="173.711"/>
+         </object>
+         <object id="8">
+            <box h="141.645" w="48.6812" xc="502.2944" yc="181.4422"/>
+         </object>
+         <object id="9">
+            <box h="146.3749" w="46.2163" xc="422.7703" yc="186.3796"/>
+         </object>
+         <object id="10">
+            <box h="174.2051" w="35.4849" xc="17.7424" yc="204.0016"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7158">
+      <objectlist>
+         <object id="3">
+            <box h="154.3738" w="42.525" xc="218.9274" yc="169.6269"/>
+         </object>
+         <object id="6">
+            <box h="140.7412" w="41.1208" xc="425.9054" yc="180.4328"/>
+         </object>
+         <object id="7">
+            <box h="161.4846" w="53.3016" xc="306.7308" yc="173.5804"/>
+         </object>
+         <object id="8">
+            <box h="141.9192" w="48.6629" xc="501.0564" yc="181.5545"/>
+         </object>
+         <object id="9">
+            <box h="146.2046" w="45.6454" xc="420.1764" yc="186.1861"/>
+         </object>
+         <object id="10">
+            <box h="175.4558" w="38.777" xc="19.3885" yc="203.1728"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7159">
+      <objectlist>
+         <object id="3">
+            <box h="154.3621" w="42.495" xc="218.8675" yc="169.5732"/>
+         </object>
+         <object id="6">
+            <box h="140.82" w="41.155" xc="426.4125" yc="180.62"/>
+         </object>
+         <object id="7">
+            <box h="161.4549" w="53.018" xc="305.9011" yc="173.4494"/>
+         </object>
+         <object id="8">
+            <box h="142.1931" w="48.645" xc="499.8187" yc="181.6665"/>
+         </object>
+         <object id="9">
+            <box h="146.0337" w="45.0751" xc="417.5821" yc="185.9919"/>
+         </object>
+         <object id="10">
+            <box h="176.5853" w="41.9057" xc="20.9528" yc="202.3742"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7160">
+      <objectlist>
+         <object id="3">
+            <box h="154.35" w="42.4651" xc="218.8075" yc="169.5187"/>
+         </object>
+         <object id="6">
+            <box h="140.8988" w="41.1892" xc="426.9196" yc="180.8072"/>
+         </object>
+         <object id="7">
+            <box h="161.425" w="52.7342" xc="305.0708" yc="173.3183"/>
+         </object>
+         <object id="8">
+            <box h="142.4669" w="48.6271" xc="498.5814" yc="181.7786"/>
+         </object>
+         <object id="9">
+            <box h="145.8621" w="44.505" xc="414.9874" yc="185.7973"/>
+         </object>
+         <object id="10">
+            <box h="177.4165" w="44.5428" xc="22.2714" yc="201.6792"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7161">
+      <objectlist>
+         <object id="3">
+            <box h="154.3379" w="42.4354" xc="218.7477" yc="169.4636"/>
+         </object>
+         <object id="6">
+            <box h="140.9771" w="41.223" xc="427.4265" yc="180.9944"/>
+         </object>
+         <object id="7">
+            <box h="161.3951" w="52.45" xc="304.2396" yc="173.1875"/>
+         </object>
+         <object id="8">
+            <box h="142.7408" w="48.6088" xc="497.3444" yc="181.8908"/>
+         </object>
+         <object id="9">
+            <box h="145.69" w="43.9349" xc="412.3925" yc="185.6029"/>
+         </object>
+         <object id="10">
+            <box h="177.8232" w="46.4627" xc="23.2313" yc="201.1376"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7162">
+      <objectlist>
+         <object id="3">
+            <box h="154.3262" w="42.4063" xc="218.6881" yc="169.4084"/>
+         </object>
+         <object id="6">
+            <box h="141.055" w="41.2566" xc="427.9333" yc="181.1817"/>
+         </object>
+         <object id="7">
+            <box h="161.3654" w="52.1658" xc="303.4078" yc="173.0569"/>
+         </object>
+         <object id="8">
+            <box h="143.015" w="48.59" xc="496.1071" yc="182.0034"/>
+         </object>
+         <object id="9">
+            <box h="145.5179" w="43.3646" xc="409.7973" yc="185.4089"/>
+         </object>
+         <object id="10">
+            <box h="177.8056" w="47.6653" xc="31.9243" yc="200.7493"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7163">
+      <objectlist>
+         <object id="3">
+            <box h="154.315" w="42.3779" xc="218.6289" yc="169.3538"/>
+         </object>
+         <object id="6">
+            <box h="141.1329" w="41.29" xc="428.44" yc="181.3687"/>
+         </object>
+         <object id="7">
+            <box h="161.3363" w="51.8819" xc="302.576" yc="172.9262"/>
+         </object>
+         <object id="8">
+            <box h="143.2892" w="48.5712" xc="494.8694" yc="182.1165"/>
+         </object>
+         <object id="9">
+            <box h="145.3463" w="42.7937" xc="407.2019" yc="185.2153"/>
+         </object>
+         <object id="10">
+            <box h="177.4763" w="48.3409" xc="35.2019" yc="200.4737"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7164">
+      <objectlist>
+         <object id="3">
+            <box h="154.3038" w="42.35" xc="218.57" yc="169.2998"/>
+         </object>
+         <object id="6">
+            <box h="141.2112" w="41.3233" xc="428.9467" yc="181.5555"/>
+         </object>
+         <object id="7">
+            <box h="161.3079" w="51.5981" xc="301.7441" yc="172.7958"/>
+         </object>
+         <object id="8">
+            <box h="143.5631" w="48.5529" xc="493.6314" yc="182.2296"/>
+         </object>
+         <object id="9">
+            <box h="145.1754" w="42.2221" xc="404.6061" yc="185.0214"/>
+         </object>
+         <object id="10">
+            <box h="176.979" w="48.7319" xc="38.9847" yc="200.2587"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7165">
+      <objectlist>
+         <object id="3">
+            <box h="154.2921" w="42.3221" xc="218.5111" yc="169.2461"/>
+         </object>
+         <object id="6">
+            <box h="141.29" w="41.3567" xc="429.4533" yc="181.7424"/>
+         </object>
+         <object id="7">
+            <box h="161.28" w="51.3142" xc="300.9125" yc="172.6658"/>
+         </object>
+         <object id="8">
+            <box h="143.8369" w="48.535" xc="492.3937" yc="182.3425"/>
+         </object>
+         <object id="9">
+            <box h="145.0051" w="41.65" xc="402.01" yc="184.8272"/>
+         </object>
+         <object id="10">
+            <box h="176.415" w="49.0099" xc="43.0602" yc="200.0676"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7166">
+      <objectlist>
+         <object id="3">
+            <box h="154.28" w="42.2937" xc="218.4519" yc="169.1921"/>
+         </object>
+         <object id="6">
+            <box h="141.3688" w="41.39" xc="429.96" yc="181.9294"/>
+         </object>
+         <object id="7">
+            <box h="161.2521" w="51.03" xc="300.0813" yc="172.5361"/>
+         </object>
+         <object id="8">
+            <box h="144.1108" w="48.5171" xc="491.1564" yc="182.4551"/>
+         </object>
+         <object id="9">
+            <box h="144.835" w="41.0779" xc="399.4139" yc="184.6328"/>
+         </object>
+         <object id="10">
+            <box h="175.8317" w="49.255" xc="47.2575" yc="199.8836"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7167">
+      <objectlist>
+         <object id="3">
+            <box h="154.2679" w="42.2646" xc="218.3923" yc="169.1376"/>
+         </object>
+         <object id="6">
+            <box h="141.45" w="41.4234" xc="430.4571" yc="182.1164"/>
+         </object>
+         <object id="7">
+            <box h="161.2237" w="50.7458" xc="299.2508" yc="172.406"/>
+         </object>
+         <object id="8">
+            <box h="144.385" w="48.4988" xc="489.9194" yc="182.5674"/>
+         </object>
+         <object id="9">
+            <box h="144.665" w="40.5063" xc="396.8181" yc="184.4388"/>
+         </object>
+         <object id="10">
+            <box h="175.2483" w="49.5001" xc="51.495" yc="199.7"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7168">
+      <objectlist>
+         <object id="3">
+            <box h="154.2563" w="42.2349" xc="218.3325" yc="169.0828"/>
+         </object>
+         <object id="6">
+            <box h="141.5403" w="41.457" xc="430.9215" yc="182.304"/>
+         </object>
+         <object id="7">
+            <box h="161.1946" w="50.4619" xc="298.421" yc="172.2754"/>
+         </object>
+         <object id="8">
+            <box h="144.6592" w="48.48" xc="488.6821" yc="182.6796"/>
+         </object>
+         <object id="9">
+            <box h="144.495" w="39.9354" xc="394.2228" yc="184.2454"/>
+         </object>
+         <object id="10">
+            <box h="174.665" w="49.7453" xc="55.7327" yc="199.5167"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7169">
+      <objectlist>
+         <object id="3">
+            <box h="154.2453" w="42.205" xc="218.2725" yc="169.028"/>
+         </object>
+         <object id="6">
+            <box h="141.6551" w="41.4908" xc="431.303" yc="182.494"/>
+         </object>
+         <object id="7">
+            <box h="161.1649" w="50.1781" xc="297.5912" yc="172.1444"/>
+         </object>
+         <object id="8">
+            <box h="144.9331" w="48.4612" xc="487.4444" yc="182.7916"/>
+         </object>
+         <object id="9">
+            <box h="144.3245" w="39.3715" xc="391.639" yc="184.0526"/>
+         </object>
+         <object id="10">
+            <box h="174.0817" w="49.9909" xc="59.9705" yc="199.3331"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7170">
+      <objectlist>
+         <object id="3">
+            <box h="154.2347" w="42.175" xc="218.2125" yc="168.9736"/>
+         </object>
+         <object id="6">
+            <box h="141.8154" w="41.525" xc="431.531" yc="182.6892"/>
+         </object>
+         <object id="7">
+            <box h="161.1351" w="49.8942" xc="296.7608" yc="172.0134"/>
+         </object>
+         <object id="8">
+            <box h="145.2069" w="48.4429" xc="486.2064" yc="182.9038"/>
+         </object>
+         <object id="9">
+            <box h="144.1523" w="38.8296" xc="389.0937" yc="183.8604"/>
+         </object>
+         <object id="10">
+            <box h="173.4983" w="50.2369" xc="64.2085" yc="199.1491"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7171">
+      <objectlist>
+         <object id="3">
+            <box h="154.2237" w="42.1451" xc="218.1525" yc="168.9197"/>
+         </object>
+         <object id="6">
+            <box h="142.0376" w="41.5592" xc="431.55" yc="182.8911"/>
+         </object>
+         <object id="7">
+            <box h="161.1054" w="49.61" xc="295.9296" yc="171.8827"/>
+         </object>
+         <object id="8">
+            <box h="145.4808" w="48.425" xc="484.9687" yc="183.0164"/>
+         </object>
+         <object id="9">
+            <box h="143.9758" w="38.343" xc="386.6451" yc="183.6689"/>
+         </object>
+         <object id="10">
+            <box h="172.915" w="50.4831" xc="68.4465" yc="198.9649"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7172">
+      <objectlist>
+         <object id="3">
+            <box h="154.2121" w="42.1154" xc="218.0928" yc="168.8661"/>
+         </object>
+         <object id="6">
+            <box h="142.3214" w="41.593" xc="431.36" yc="183.0994"/>
+         </object>
+         <object id="7">
+            <box h="161.0763" w="49.3258" xc="295.0978" yc="171.7523"/>
+         </object>
+         <object id="8">
+            <box h="145.755" w="48.4071" xc="483.7314" yc="183.1294"/>
+         </object>
+         <object id="9">
+            <box h="143.7912" w="37.9587" xc="384.3749" yc="183.4788"/>
+         </object>
+         <object id="10">
+            <box h="172.3317" w="50.7291" xc="72.6845" yc="198.7808"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7173">
+      <objectlist>
+         <object id="3">
+            <box h="154.2" w="42.0863" xc="218.0335" yc="168.8121"/>
+         </object>
+         <object id="6">
+            <box h="142.65" w="41.6266" xc="431.0166" yc="183.312"/>
+         </object>
+         <object id="7">
+            <box h="161.0479" w="49.042" xc="294.2661" yc="171.622"/>
+         </object>
+         <object id="8">
+            <box h="146.0292" w="48.3888" xc="482.4944" yc="183.2427"/>
+         </object>
+         <object id="9">
+            <box h="143.5954" w="37.7137" xc="382.3474" yc="183.2908"/>
+         </object>
+         <object id="10">
+            <box h="171.7483" w="50.9747" xc="76.9223" yc="198.5967"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7174">
+      <objectlist>
+         <object id="3">
+            <box h="154.1879" w="42.0579" xc="217.9749" yc="168.7576"/>
+         </object>
+         <object id="6">
+            <box h="143.0027" w="41.66" xc="430.5905" yc="183.5269"/>
+         </object>
+         <object id="7">
+            <box h="161.02" w="48.7584" xc="293.4346" yc="171.4919"/>
+         </object>
+         <object id="8">
+            <box h="146.3031" w="48.37" xc="481.2571" yc="183.3556"/>
+         </object>
+         <object id="9">
+            <box h="143.3881" w="37.608" xc="380.5626" yc="183.105"/>
+         </object>
+         <object id="10">
+            <box h="171.165" w="51.2199" xc="81.16" yc="198.4125"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7175">
+      <objectlist>
+         <object id="3">
+            <box h="154.1762" w="42.03" xc="217.9169" yc="168.7027"/>
+         </object>
+         <object id="6">
+            <box h="143.365" w="41.6933" xc="430.1317" yc="183.7425"/>
+         </object>
+         <object id="7">
+            <box h="160.9921" w="48.475" xc="292.6038" yc="171.3619"/>
+         </object>
+         <object id="8">
+            <box h="146.5769" w="48.3512" xc="480.0194" yc="183.4681"/>
+         </object>
+         <object id="9">
+            <box h="143.1722" w="37.6046" xc="378.9562" yc="182.9204"/>
+         </object>
+         <object id="10">
+            <box h="170.5817" w="51.465" xc="85.3975" yc="198.2283"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7176">
+      <objectlist>
+         <object id="3">
+            <box h="154.165" w="42.0021" xc="217.8592" yc="168.6475"/>
+         </object>
+         <object id="6">
+            <box h="143.73" w="41.7267" xc="429.6632" yc="183.9583"/>
+         </object>
+         <object id="7">
+            <box h="160.9637" w="48.1916" xc="291.7736" yc="171.2319"/>
+         </object>
+         <object id="8">
+            <box h="146.8508" w="48.3329" xc="478.7814" yc="183.5803"/>
+         </object>
+         <object id="9">
+            <box h="142.9519" w="37.6564" xc="377.4464" yc="182.7364"/>
+         </object>
+         <object id="10">
+            <box h="169.9983" w="51.7101" xc="89.635" yc="198.0442"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7177">
+      <objectlist>
+         <object id="3">
+            <box h="154.1538" w="41.9737" xc="217.8009" yc="168.5923"/>
+         </object>
+         <object id="6">
+            <box h="144.095" w="41.76" xc="429.1947" yc="184.1742"/>
+         </object>
+         <object id="7">
+            <box h="160.9346" w="47.908" xc="290.944" yc="171.1014"/>
+         </object>
+         <object id="8">
+            <box h="147.125" w="48.315" xc="477.5437" yc="183.6925"/>
+         </object>
+         <object id="9">
+            <box h="142.73" w="37.73" xc="375.9751" yc="182.5529"/>
+         </object>
+         <object id="10">
+            <box h="169.415" w="51.9553" xc="93.8727" yc="197.8601"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7178">
+      <objectlist>
+         <object id="3">
+            <box h="154.1421" w="41.9446" xc="217.7419" yc="168.5374"/>
+         </object>
+         <object id="6">
+            <box h="144.46" w="41.7934" xc="428.7258" yc="184.39"/>
+         </object>
+         <object id="7">
+            <box h="160.9049" w="47.6242" xc="290.1142" yc="170.9704"/>
+         </object>
+         <object id="8">
+            <box h="147.3992" w="48.2971" xc="476.3064" yc="183.8047"/>
+         </object>
+         <object id="9">
+            <box h="142.5076" w="37.81" xc="374.515" yc="182.37"/>
+         </object>
+         <object id="10">
+            <box h="168.8316" w="52.2009" xc="98.1105" yc="197.6758"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7179">
+      <objectlist>
+         <object id="3">
+            <box h="154.13" w="41.9149" xc="217.6824" yc="168.4829"/>
+         </object>
+         <object id="6">
+            <box h="144.825" w="41.827" xc="428.2566" yc="184.6058"/>
+         </object>
+         <object id="7">
+            <box h="160.875" w="47.34" xc="289.2837" yc="170.8391"/>
+         </object>
+         <object id="8">
+            <box h="147.6731" w="48.2787" xc="475.0694" yc="183.9169"/>
+         </object>
+         <object id="9">
+            <box h="142.285" w="37.89" xc="373.055" yc="182.1875"/>
+         </object>
+         <object id="10">
+            <box h="168.248" w="52.4469" xc="102.3485" yc="197.4914"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7180">
+      <objectlist>
+         <object id="3">
+            <box h="154.1179" w="41.885" xc="217.6225" yc="168.4289"/>
+         </object>
+         <object id="6">
+            <box h="145.1901" w="41.8608" xc="427.7873" yc="184.8216"/>
+         </object>
+         <object id="7">
+            <box h="160.8451" w="47.0558" xc="288.4525" yc="170.7075"/>
+         </object>
+         <object id="8">
+            <box h="147.9469" w="48.2597" xc="473.832" yc="184.0294"/>
+         </object>
+         <object id="9">
+            <box h="142.0624" w="37.97" xc="371.595" yc="182.005"/>
+         </object>
+         <object id="10">
+            <box h="167.6642" w="52.6931" xc="106.5865" yc="197.3071"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7181">
+      <objectlist>
+         <object id="3">
+            <box h="154.1062" w="41.855" xc="217.5625" yc="168.3752"/>
+         </object>
+         <object id="6">
+            <box h="145.5533" w="41.895" xc="427.3029" yc="185.0365"/>
+         </object>
+         <object id="7">
+            <box h="160.8154" w="46.7719" xc="287.6209" yc="170.5761"/>
+         </object>
+         <object id="8">
+            <box h="148.2208" w="48.2403" xc="472.594" yc="184.1423"/>
+         </object>
+         <object id="9">
+            <box h="141.84" w="38.05" xc="370.135" yc="181.8221"/>
+         </object>
+         <object id="10">
+            <box h="167.08" w="52.9391" xc="110.8245" yc="197.1226"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7182">
+      <objectlist>
+         <object id="3">
+            <box h="154.095" w="41.8251" xc="217.5025" yc="168.3212"/>
+         </object>
+         <object id="6">
+            <box h="145.9097" w="41.9292" xc="426.7655" yc="185.2484"/>
+         </object>
+         <object id="7">
+            <box h="160.7863" w="46.4881" xc="286.7891" yc="170.4451"/>
+         </object>
+         <object id="8">
+            <box h="148.495" w="48.2213" xc="471.3556" yc="184.2556"/>
+         </object>
+         <object id="9">
+            <box h="141.6176" w="38.13" xc="368.675" yc="181.6388"/>
+         </object>
+         <object id="10">
+            <box h="166.4958" w="53.1847" xc="115.0623" yc="196.9379"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7183">
+      <objectlist>
+         <object id="3">
+            <box h="154.0838" w="41.7954" xc="217.4427" yc="168.2666"/>
+         </object>
+         <object id="6">
+            <box h="146.2484" w="41.963" xc="426.0938" yc="185.4528"/>
+         </object>
+         <object id="7">
+            <box h="160.7579" w="46.2042" xc="285.9575" yc="170.3148"/>
+         </object>
+         <object id="8">
+            <box h="148.7692" w="48.2029" xc="470.1176" yc="184.3686"/>
+         </object>
+         <object id="9">
+            <box h="141.3951" w="38.2099" xc="367.215" yc="181.4554"/>
+         </object>
+         <object id="10">
+            <box h="165.912" w="53.4299" xc="119.3" yc="196.7534"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7184">
+      <objectlist>
+         <object id="3">
+            <box h="154.0721" w="41.7663" xc="217.3831" yc="168.2114"/>
+         </object>
+         <object id="6">
+            <box h="146.5536" w="41.9966" xc="425.1731" yc="185.6437"/>
+         </object>
+         <object id="7">
+            <box h="160.7282" w="45.9219" xc="285.1346" yc="170.1856"/>
+         </object>
+         <object id="8">
+            <box h="149.043" w="48.185" xc="468.8804" yc="184.4812"/>
+         </object>
+         <object id="9">
+            <box h="141.1728" w="38.2896" xc="365.7548" yc="181.2726"/>
+         </object>
+         <object id="10">
+            <box h="165.3284" w="53.675" xc="123.5375" yc="196.5692"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7185">
+      <objectlist>
+         <object id="3">
+            <box h="154.06" w="41.7379" xc="217.3239" yc="168.1563"/>
+         </object>
+         <object id="6">
+            <box h="146.8126" w="42.03" xc="423.9133" yc="185.816"/>
+         </object>
+         <object id="7">
+            <box h="160.6925" w="45.6458" xc="284.3406" yc="170.0584"/>
+         </object>
+         <object id="8">
+            <box h="149.3166" w="48.1671" xc="467.6436" yc="184.5932"/>
+         </object>
+         <object id="9">
+            <box h="140.9508" w="38.3687" xc="364.2944" yc="181.0904"/>
+         </object>
+         <object id="10">
+            <box h="164.745" w="53.9201" xc="127.775" yc="196.3851"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7186">
+      <objectlist>
+         <object id="3">
+            <box h="154.0479" w="41.71" xc="217.265" yc="168.1018"/>
+         </object>
+         <object id="6">
+            <box h="147.0252" w="42.0634" xc="422.3145" yc="185.9696"/>
+         </object>
+         <object id="7">
+            <box h="160.6406" w="45.3855" xc="283.6189" yc="169.9356"/>
+         </object>
+         <object id="8">
+            <box h="149.59" w="48.1488" xc="466.4066" yc="184.705"/>
+         </object>
+         <object id="9">
+            <box h="140.7292" w="38.4471" xc="362.8336" yc="180.9084"/>
+         </object>
+         <object id="10">
+            <box h="164.1617" w="54.1653" xc="132.0127" yc="196.2008"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7187">
+      <objectlist>
+         <object id="3">
+            <box h="154.0362" w="41.6821" xc="217.2061" yc="168.0481"/>
+         </object>
+         <object id="6">
+            <box h="147.2033" w="42.097" xc="420.4666" yc="186.1094"/>
+         </object>
+         <object id="7">
+            <box h="160.5592" w="45.1542" xc="283.0297" yc="169.8216"/>
+         </object>
+         <object id="8">
+            <box h="149.8634" w="48.13" xc="465.1687" yc="184.8168"/>
+         </object>
+         <object id="9">
+            <box h="140.5072" w="38.525" xc="361.3725" yc="180.7258"/>
+         </object>
+         <object id="10">
+            <box h="163.5783" w="54.4109" xc="136.2505" yc="196.0166"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7188">
+      <objectlist>
+         <object id="3">
+            <box h="154.025" w="41.6537" xc="217.1469" yc="167.9946"/>
+         </object>
+         <object id="6">
+            <box h="147.3629" w="42.1308" xc="418.4841" yc="186.2417"/>
+         </object>
+         <object id="7">
+            <box h="160.4379" w="44.9617" xc="282.62" yc="169.7199"/>
+         </object>
+         <object id="8">
+            <box h="150.137" w="48.1112" xc="463.9303" yc="184.9288"/>
+         </object>
+         <object id="9">
+            <box h="140.2849" w="38.6029" xc="359.9113" yc="180.5425"/>
+         </object>
+         <object id="10">
+            <box h="162.995" w="54.6569" xc="140.4885" yc="195.8325"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7189">
+      <objectlist>
+         <object id="3">
+            <box h="154.0138" w="41.6246" xc="217.0873" yc="167.9406"/>
+         </object>
+         <object id="6">
+            <box h="147.5154" w="42.165" xc="416.4483" yc="186.371"/>
+         </object>
+         <object id="7">
+            <box h="160.2773" w="44.8078" xc="282.3896" yc="169.6309"/>
+         </object>
+         <object id="8">
+            <box h="150.4108" w="48.0929" xc="462.6918" yc="185.0414"/>
+         </object>
+         <object id="9">
+            <box h="140.0624" w="38.6813" xc="358.4502" yc="180.3591"/>
+         </object>
+         <object id="10">
+            <box h="162.4117" w="54.9031" xc="144.7265" yc="195.6484"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7190">
+      <objectlist>
+         <object id="3">
+            <box h="154.0021" w="41.5949" xc="217.0275" yc="167.8857"/>
+         </object>
+         <object id="6">
+            <box h="147.6663" w="42.1992" xc="414.3973" yc="186.4998"/>
+         </object>
+         <object id="7">
+            <box h="160.0883" w="44.6824" xc="282.291" yc="169.5513"/>
+         </object>
+         <object id="8">
+            <box h="150.685" w="48.075" xc="461.4538" yc="185.1544"/>
+         </object>
+         <object id="9">
+            <box h="139.84" w="38.7604" xc="356.9889" yc="180.1762"/>
+         </object>
+         <object id="10">
+            <box h="161.8283" w="55.1491" xc="148.9644" yc="195.4642"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7191">
+      <objectlist>
+         <object id="3">
+            <box h="153.99" w="41.565" xc="216.9676" yc="167.8303"/>
+         </object>
+         <object id="6">
+            <box h="147.8179" w="42.233" xc="412.3465" yc="186.6289"/>
+         </object>
+         <object id="7">
+            <box h="159.8844" w="44.573" xc="282.2639" yc="169.4767"/>
+         </object>
+         <object id="8">
+            <box h="150.9592" w="48.0571" xc="460.2164" yc="185.2677"/>
+         </object>
+         <object id="9">
+            <box h="139.6176" w="38.8401" xc="355.5272" yc="179.9938"/>
+         </object>
+         <object id="10">
+            <box h="161.245" w="55.3947" xc="153.202" yc="195.2799"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7192">
+      <objectlist>
+         <object id="3">
+            <box h="153.9779" w="41.5351" xc="216.9079" yc="167.7752"/>
+         </object>
+         <object id="6">
+            <box h="147.97" w="42.2666" xc="410.2955" yc="186.7584"/>
+         </object>
+         <object id="7">
+            <box h="159.675" w="44.4704" xc="282.2652" yc="169.4041"/>
+         </object>
+         <object id="8">
+            <box h="151.2331" w="48.0388" xc="458.9794" yc="185.3806"/>
+         </object>
+         <object id="9">
+            <box h="139.395" w="38.92" xc="354.065" yc="179.8113"/>
+         </object>
+         <object id="10">
+            <box h="160.6617" w="55.6399" xc="157.439" yc="195.0958"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7193">
+      <objectlist>
+         <object id="3">
+            <box h="153.9662" w="41.5054" xc="216.8487" yc="167.7209"/>
+         </object>
+         <object id="6">
+            <box h="148.1221" w="42.3" xc="408.2442" yc="186.8881"/>
+         </object>
+         <object id="7">
+            <box h="159.4638" w="44.3701" xc="282.275" yc="169.3319"/>
+         </object>
+         <object id="8">
+            <box h="151.5069" w="48.02" xc="457.7421" yc="185.4931"/>
+         </object>
+         <object id="9">
+            <box h="139.1724" w="39" xc="352.6029" yc="179.6284"/>
+         </object>
+         <object id="10">
+            <box h="160.0783" w="55.885" xc="161.6756" yc="194.9117"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7194">
+      <objectlist>
+         <object id="3">
+            <box h="153.955" w="41.4763" xc="216.7901" yc="167.6675"/>
+         </object>
+         <object id="6">
+            <box h="148.2737" w="42.3333" xc="406.1925" yc="187.0177"/>
+         </object>
+         <object id="7">
+            <box h="159.2521" w="44.27" xc="282.285" yc="169.2594"/>
+         </object>
+         <object id="8">
+            <box h="151.7808" w="48.0012" xc="456.5044" yc="185.6053"/>
+         </object>
+         <object id="9">
+            <box h="138.95" w="39.08" xc="351.1413" yc="179.445"/>
+         </object>
+         <object id="10">
+            <box h="159.495" w="56.1301" xc="165.912" yc="194.7275"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7195">
+      <objectlist>
+         <object id="3">
+            <box h="153.9438" w="41.4479" xc="216.732" yc="167.6141"/>
+         </object>
+         <object id="6">
+            <box h="148.4247" w="42.3667" xc="404.1411" yc="187.1473"/>
+         </object>
+         <object id="7">
+            <box h="159.04" w="44.17" xc="282.295" yc="169.1867"/>
+         </object>
+         <object id="8">
+            <box h="152.055" w="47.9829" xc="455.2664" yc="185.7175"/>
+         </object>
+         <object id="9">
+            <box h="138.7276" w="39.16" xc="349.6804" yc="179.2616"/>
+         </object>
+         <object id="10">
+            <box h="158.9117" w="56.3753" xc="170.1486" yc="194.5433"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7196">
+      <objectlist>
+         <object id="3">
+            <box h="153.9322" w="41.4203" xc="216.6747" yc="167.5603"/>
+         </object>
+         <object id="6">
+            <box h="148.5739" w="42.3997" xc="402.1101" yc="187.2756"/>
+         </object>
+         <object id="7">
+            <box h="158.8299" w="44.071" xc="282.3049" yc="169.1147"/>
+         </object>
+         <object id="8">
+            <box h="152.3265" w="47.9652" xc="454.0408" yc="185.8285"/>
+         </object>
+         <object id="9">
+            <box h="138.5073" w="39.2392" xc="348.2344" yc="179.0806"/>
+         </object>
+         <object id="10">
+            <box h="158.3341" w="56.6185" xc="174.3444" yc="194.361"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7197">
+      <objectlist>
+         <object id="3">
+            <box h="153.9205" w="41.3937" xc="216.6191" yc="167.5075"/>
+         </object>
+         <object id="6">
+            <box h="148.7183" w="42.4317" xc="400.1481" yc="187.3995"/>
+         </object>
+         <object id="7">
+            <box h="158.6275" w="43.9753" xc="282.3145" yc="169.0455"/>
+         </object>
+         <object id="8">
+            <box h="152.5886" w="47.9482" xc="452.8574" yc="185.9358"/>
+         </object>
+         <object id="9">
+            <box h="138.2946" w="39.3157" xc="346.8377" yc="178.9064"/>
+         </object>
+         <object id="10">
+            <box h="157.7763" w="56.8537" xc="178.3982" yc="194.1849"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7198">
+      <objectlist>
+         <object id="3">
+            <box h="153.9097" w="41.3692" xc="216.5681" yc="167.4588"/>
+         </object>
+         <object id="6">
+            <box h="148.8506" w="42.4611" xc="398.36" yc="187.5127"/>
+         </object>
+         <object id="7">
+            <box h="158.4436" w="43.8882" xc="282.3232" yc="168.9829"/>
+         </object>
+         <object id="8">
+            <box h="152.8275" w="47.9323" xc="451.7794" yc="186.0337"/>
+         </object>
+         <object id="9">
+            <box h="138.1012" w="39.3855" xc="345.565" yc="178.7484"/>
+         </object>
+         <object id="10">
+            <box h="157.2682" w="57.0681" xc="182.0926" yc="194.0242"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7199">
+      <objectlist>
+         <object id="3">
+            <box h="153.901" w="41.3486" xc="216.5263" yc="167.4188"/>
+         </object>
+         <object id="6">
+            <box h="148.9599" w="42.4855" xc="396.8945" yc="187.6062"/>
+         </object>
+         <object id="7">
+            <box h="158.2932" w="43.8167" xc="282.3303" yc="168.9322"/>
+         </object>
+         <object id="8">
+            <box h="153.0234" w="47.9189" xc="450.8963" yc="186.1143"/>
+         </object>
+         <object id="9">
+            <box h="137.9432" w="39.4426" xc="344.5221" yc="178.6193"/>
+         </object>
+         <object id="10">
+            <box h="156.8523" w="57.2436" xc="185.1201" yc="193.8926"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7200">
+      <objectlist>
+         <object id="3">
+            <box h="153.8951" w="41.3339" xc="216.497" yc="167.3909"/>
+         </object>
+         <object id="6">
+            <box h="149.0371" w="42.503" xc="395.8686" yc="187.6722"/>
+         </object>
+         <object id="7">
+            <box h="158.1881" w="43.7667" xc="282.3353" yc="168.8971"/>
+         </object>
+         <object id="8">
+            <box h="153.1609" w="47.9092" xc="450.278" yc="186.1712"/>
+         </object>
+         <object id="9">
+            <box h="137.8329" w="39.4826" xc="343.7921" yc="178.5291"/>
+         </object>
+         <object id="10">
+            <box h="156.5614" w="57.3661" xc="187.2395" yc="193.8006"/>
+         </object>
+      </objectlist>
+   </frame>
+</dataset>
