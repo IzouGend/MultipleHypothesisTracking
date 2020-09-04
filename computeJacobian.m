@@ -1,7 +1,4 @@
 function jac = computeJacobian(format,stateCart)
-% 计算Jacobian矩阵
-% 输入:format:数据格式;stateSph:状态(笛卡尔坐标系)
-% Author:X.W.Cui; Date:2020-6-13
 
 GTRACK_STATE_VECTORS_2D = 0;
 GTRACK_STATE_VECTORS_2DA = 1;
